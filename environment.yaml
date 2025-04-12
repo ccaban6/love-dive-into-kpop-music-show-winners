@@ -1,0 +1,12 @@
+name: essentia
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cudnn=8.1
+  - cudatoolkit=11.2
+  - ipykernel
+  - tensorflow
+  - pandas=2.1.4
+  - matplotlib
+prefix: /home/ccaban/miniforge3/envs/essentia
