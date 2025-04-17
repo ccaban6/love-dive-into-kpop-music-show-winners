@@ -1,4 +1,3 @@
-import essentia
 from essentia.standard import (
     TensorflowPredictVGGish,
     TensorflowPredictEffnetDiscogs,
@@ -106,7 +105,10 @@ class EssentiaPredictor:
           dict: A dictionary with keys for each model and the corresponding prediction values.
         """
         # Load the audio once using MonoLoader
-        audio = MonoLoader(filename=audio_file, sampleRate=16000, resampleQuality=0)()
+        try:
+            audio = MonoLoader(filename=audio_file, sampleRate=16000, resampleQuality=0)()
+        except Exception as e:
+            print(f"Error loading audio file {audio_file}: {e}")
         predictions = {}
 
         # Process VGGish-based predictions:

@@ -33,7 +33,7 @@ def search_and_download_audio(song_name, artist, base_dir="data/audio"):
     target_path = get_permanent_audio_path(song_name, artist, ext="flac", base_dir=base_dir)
 
     # If the file is already present, skip download.
-    if os.path.exists(target_path):
+    if os.path.exists(target_path) and os.path.getsize(target_path) > 0:
         print(f"File already exists for {song_name} by {artist}. Skipping download.")
         return target_path
 
