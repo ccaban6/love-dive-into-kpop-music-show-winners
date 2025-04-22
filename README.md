@@ -15,15 +15,17 @@ Currently, I have some optional notebooks in `download_audio.py` and `essentia_m
 The file structure and order in which they should be explored can be explained by this diagram.
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
+
 flowchart LR
     subgraph Recommended
-    A[gather_nonwinning_tabular_data.ipynb] anim1@--> C[gather_audio_data.ipynb]
-    B[gather_winning_tabular_data.ipynb] anim2@--> C
+    A(gather_nonwinning_tabular_data.ipynb) anim1@--> C(gather_audio_data.ipynb)
+    B(gather_winning_tabular_data.ipynb) anim2@--> C
     end
 
     subgraph Optional
-    D[download_audio.py]-->C
-    E[essentia_models.py]-->C
+    D(download_audio.py)-->C
+    E(essentia_models.py)-->C
     end
 
     anim1@{ animation: slow }
