@@ -3599,5 +3599,18 @@
         "effnet_engagement": 90.67354202270508,
         "effnet_timbre_bright": 49.77927803993225,
         "tempo": 124.0
+    },
+    "data/audio/swicy_unis.flac": {
+        "vggish_dance": 89.48891162872314,
+        "vggish_party": 22.21209853887558,
+        "vggish_happy": 74.39520955085754,
+        "vggish_sad": 88.16394805908203,
+        "effnet_party": 0.8884255774319172,
+        "effnet_happy": 51.49156451225281,
+        "effnet_sad": 94.73271369934082,
+        "effnet_approachability": 91.30312204360962,
+        "effnet_engagement": 92.40037202835083,
+        "effnet_timbre_bright": 54.265302419662476,
+        "tempo": 160.0
     }
 }

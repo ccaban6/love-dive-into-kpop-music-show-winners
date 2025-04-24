@@ -1,896 +1,1691 @@
 Show,Date,Placement,Artist,Song,Total
+Inkigayo,2022-01-09,1,IVE,ELEVEN,8533
+Inkigayo,2022-01-16,1,IVE,ELEVEN,6583
+Inkigayo,2022-01-23,1,IVE,ELEVEN,5927
+Inkigayo,2022-01-30,1,GOT the beat,Step Back,5612
+Inkigayo,2022-02-20,1,GOT the beat,Step Back,7224
+Inkigayo,2022-02-27,1,Taeyeon,INVU,7401
+Inkigayo,2022-03-06,1,Taeyeon,INVU,6783
+Inkigayo,2022-03-13,1,Taeyeon,INVU,7083
+Inkigayo,2022-03-20,1,Kim Min-seok,Drunken Confession,5514
+Inkigayo,2022-03-27,1,(G)I-DLE,TOMBOY,8037
+Inkigayo,2022-04-03,1,(G)I-DLE,TOMBOY,9648
+Inkigayo,2022-04-10,1,NCT DREAM,Glitch Mode,6845
+Inkigayo,2022-04-17,1,BIGBANG,Still Life,8673
+Inkigayo,2022-04-24,1,BIGBANG,Still Life,9394
+Inkigayo,2022-05-01,1,BIGBANG,Still Life,8681
+Inkigayo,2022-05-08,1,IVE,LOVE DIVE,6726
+Inkigayo,2022-05-15,1,PSY,That That,9402
+Inkigayo,2022-05-22,1,PSY,That That,9108
+Inkigayo,2022-05-29,1,PSY,That That,7620
+Inkigayo,2022-06-05,1,(G)I-DLE,TOMBOY,6314
+Inkigayo,2022-06-12,1,NCT DREAM,Beatbox,7292
+Inkigayo,2022-06-19,1,BTS,Yet to Come,7007
+Inkigayo,2022-06-26,1,BTS,Yet to Come,9479
+Inkigayo,2022-07-03,1,IVE,LOVE DIVE,6126
+Inkigayo,2022-07-10,1,Nayeon,POP!,6922
+Inkigayo,2022-07-17,1,IVE,LOVE DIVE,5955
 Inkigayo,2022-07-17,2,Nayeon,POP!,5952
 Inkigayo,2022-07-17,3,aespa,Girls,4415
+Inkigayo,2022-07-24,1,Nayeon,POP!,7103
 Inkigayo,2022-07-24,2,aespa,Girls,6262
 Inkigayo,2022-07-24,3,ITZY,SNEAKERS,4656
+Inkigayo,2022-07-31,1,SEVENTEEN,_WORLD,7092
+Inkigayo,2022-08-07,1,Nayeon,POP!,7201
+Inkigayo,2022-08-14,1,ITZY,SNEAKERS,7353
+Inkigayo,2022-08-21,1,NewJeans,Attention,8273
+Inkigayo,2022-08-28,1,NewJeans,Attention,6300
+Inkigayo,2022-09-04,1,BLACKPINK,Pink Venom,9292
+Inkigayo,2022-09-18,1,BLACKPINK,Pink Venom,7977
+Inkigayo,2022-09-25,1,BLACKPINK,Pink Venom,7129
+Inkigayo,2022-10-02,1,BLACKPINK,Shut Down,9077
+Inkigayo,2022-10-09,1,BLACKPINK,Shut Down,8991
+Inkigayo,2022-10-16,1,BLACKPINK,Shut Down,7641
+Inkigayo,2022-10-23,1,IVE,After LIKE,7038
+Inkigayo,2022-11-06,1,(G)I-DLE,Nxde,9409
 Inkigayo,2022-11-06,2,LE SSERAFIM,ANTIFRAGILE,6186
 Inkigayo,2022-11-06,3,IVE,After LIKE,5007
+Inkigayo,2022-11-13,1,(G)I-DLE,Nxde,9164
+Inkigayo,2022-11-20,1,(G)I-DLE,Nxde,6624
+Inkigayo,2022-11-27,1,YOUNHA,Event Horizon,6482
+Inkigayo,2022-12-04,1,YOUNHA,Event Horizon,6319
+Inkigayo,2022-12-11,1,YOUNHA,Event Horizon,6164
+Inkigayo,2023-01-08,1,NewJeans,Ditto,6719
+Inkigayo,2023-01-15,1,NewJeans,OMG,8795
+Inkigayo,2023-01-29,1,NewJeans,Ditto,7119
+Inkigayo,2023-02-05,1,NewJeans,Ditto,6006
+Inkigayo,2023-02-12,1,TOMORROW X TOGETHER,Sugar Rush Ride,7233
+Inkigayo,2023-02-19,1,BSS,Fighting,8165
+Inkigayo,2023-02-26,1,STAYC,Teddy Bear,5774
+Inkigayo,2023-03-05,1,THE BOYZ,Roar,6463
+Inkigayo,2023-03-19,1,NewJeans,OMG,5781
+Inkigayo,2023-03-26,1,NewJeans,OMG,6309
+Inkigayo,2023-04-02,1,NewJeans,Hype Boy,5932
+Inkigayo,2023-04-09,1,IVE,Kitsch,8273
+Inkigayo,2023-04-16,1,Jisoo,Flower,8714
+Inkigayo,2023-04-23,1,IVE,I Am,10586
+Inkigayo,2023-04-30,1,Jisoo,Flower,7902
+Inkigayo,2023-05-07,1,SEVENTEEN,Super,7884
+Inkigayo,2023-05-14,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),8466
+Inkigayo,2023-05-21,1,aespa,Spicy,7742
 Inkigayo,2023-05-21,2,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),5954
+Inkigayo,2023-05-28,1,(G)I-DLE,Queencard,8779
+Inkigayo,2023-06-04,1,(G)I-DLE,Queencard,9423
 Inkigayo,2023-06-04,2,aespa,Spicy,6385
 Inkigayo,2023-06-04,3,IVE,I Am,6555
+Inkigayo,2023-06-11,1,(G)I-DLE,Queencard,9423
 Inkigayo,2023-06-11,2,IVE,I Am,6010
 Inkigayo,2023-06-11,3,aespa,Spicy,5196
+Inkigayo,2023-06-18,1,IVE,I Am,6398
 Inkigayo,2023-06-18,2,STRAY KIDS,S-Class,5891
 Inkigayo,2023-06-18,3,aespa,Spicy,5696
+Inkigayo,2023-06-25,1,IVE,I Am,6882
 Inkigayo,2023-06-25,2,aespa,Spicy,5406
 Inkigayo,2023-06-25,3,Jisoo,Flower,5162
-Inkigayo,2023-07-02,2,LE SSERAFIM,"Eve, Psyche & The Bluebeard’s wife",6626
+Inkigayo,2023-07-02,1,Jisoo,Flower,6961
+Inkigayo,2023-07-02,2,LE SSERAFIM,"Eve, Psyche & The Bluebeard's wife",6626
 Inkigayo,2023-07-02,3,aespa,Spicy,6193
-Inkigayo,2023-07-09,2,LE SSERAFIM,"Eve, Psyche & The Bluebeard’s wife",6235
+Inkigayo,2023-07-09,1,SHINee,HARD,6666
+Inkigayo,2023-07-09,2,LE SSERAFIM,"Eve, Psyche & The Bluebeard's wife",6235
 Inkigayo,2023-07-09,3,aespa,Spicy,6037
+Inkigayo,2023-07-16,1,LE SSERAFIM,"Eve, Psyche & The Bluebeard's wife",6463
 Inkigayo,2023-07-16,2,aespa,Spicy,5718
 Inkigayo,2023-07-16,3,IVE,Kitsch,4835
+Inkigayo,2023-07-23,1,NewJeans,Super Shy,6994
 Inkigayo,2023-07-23,2,Jung Kook,Seven (feat. Latto),4915
 Inkigayo,2023-07-23,3,Parc Jae-jung,Let's Say Goodbye,4104
+Inkigayo,2023-07-30,1,Jung Kook,Seven (feat. Latto),8074
 Inkigayo,2023-07-30,2,NewJeans,Super Shy,7060
 Inkigayo,2023-07-30,3,NCT DREAM,ISTJ,6942
+Inkigayo,2023-08-06,1,Jung Kook,Seven (feat. Latto),8379
 Inkigayo,2023-08-06,2,NewJeans,Super Shy,7047
 Inkigayo,2023-08-06,3,NewJeans,ETA,5175
+Inkigayo,2023-08-13,1,Jung Kook,Seven (feat. Latto),8425
 Inkigayo,2023-08-13,2,NewJeans,Super Shy,7188
 Inkigayo,2023-08-13,3,NewJeans,ETA,5566
+Inkigayo,2023-08-20,1,NewJeans,Super Shy,6724
 Inkigayo,2023-08-20,2,NewJeans,ETA,5791
 Inkigayo,2023-08-20,3,THE BOYZ,LIP GLOSS,4923
 Inkigayo,2023-08-20,4,SOMI,Fast Forward,0
 Inkigayo,2023-08-20,5,Parc Jae-jung,Let's Say Goodbye,0
 Inkigayo,2023-08-20,6,V,Love Me Again,0
-Inkigayo,2023-08-20,7,LE SSERAFIM,"Eve, Psyche & The Bluebeard’s wife",0
+Inkigayo,2023-08-20,7,LE SSERAFIM,"Eve, Psyche & The Bluebeard's wife",0
 Inkigayo,2023-08-20,8,aespa,Spicy,0
 Inkigayo,2023-08-20,9,IVE,Kitsch,0
 Inkigayo,2023-08-20,10,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),0
+Inkigayo,2023-08-27,1,NewJeans,Super Shy,7211
 Inkigayo,2023-08-27,2,NewJeans,ETA,6044
 Inkigayo,2023-08-27,3,STAYC,Bubble,5906
+Inkigayo,2023-09-03,1,NewJeans,ETA,6572
 Inkigayo,2023-09-03,2,Parc Jae-jung,Let's Say Goodbye,4433
-Inkigayo,2023-09-03,3,LE SSERAFIM,"Eve, Psyche & The Bluebeard’s wife",3768
+Inkigayo,2023-09-03,3,LE SSERAFIM,"Eve, Psyche & The Bluebeard's wife",3768
+Inkigayo,2023-09-10,1,NewJeans,ETA,6111
 Inkigayo,2023-09-10,2,NCT U,Baggy Jeans,5248
 Inkigayo,2023-09-10,3,Parc Jae-jung,Let's Say Goodbye,4568
+Inkigayo,2023-09-17,1,AKMU,Love Lee,6337
 Inkigayo,2023-09-17,2,NewJeans,ETA,5272
 Inkigayo,2023-09-17,3,RIIZE,Get A Guitar,4671
+Inkigayo,2023-10-15,1,AKMU,Love Lee,6330
 Inkigayo,2023-10-15,2,Jung Kook,3D,5646
 Inkigayo,2023-10-15,3,AKMU,Fry's Dream,5186
+Inkigayo,2023-10-22,1,AKMU,Love Lee,6278
 Inkigayo,2023-10-22,2,JENNIE,You & Me,6267
 Inkigayo,2023-10-22,3,AKMU,Fry's Dream,5176
+Inkigayo,2023-10-29,1,IVE,Either Way,6433
 Inkigayo,2023-10-29,2,JENNIE,You & Me,5709
 Inkigayo,2023-10-29,3,AKMU,Fry's Dream,5315
+Inkigayo,2023-11-05,1,SEVENTEEN,God of Music,8290
 Inkigayo,2023-11-05,2,AKMU,Fry's Dream,5447
 Inkigayo,2023-11-05,3,JENNIE,You & Me,5403
+Inkigayo,2023-11-12,1,IVE,Baddie,6292
 Inkigayo,2023-11-12,2,JENNIE,You & Me,6131
 Inkigayo,2023-11-12,3,AKMU,Fry's Dream,5088
+Inkigayo,2023-11-19,1,IVE,Baddie,6089
 Inkigayo,2023-11-19,2,AKMU,Fry's Dream,4702
 Inkigayo,2023-11-19,3,JENNIE,You & Me,4685
+Inkigayo,2023-11-26,1,aespa,Drama,6719
 Inkigayo,2023-11-26,2,IVE,Baddie,5894
 Inkigayo,2023-11-26,3,JENNIE,You & Me,4575
+Inkigayo,2023-12-03,1,IVE,Baddie,5731
+Inkigayo,2023-12-10,1,Taeyeon,To. X,5675
 Inkigayo,2023-12-10,2,aespa,Drama,5519
 Inkigayo,2023-12-10,3,JENNIE,You & Me,3838
+Inkigayo,2024-01-07,1,aespa,Drama,7605
 Inkigayo,2024-01-07,2,JENNIE,You & Me,5651
 Inkigayo,2024-01-07,3,EXO,?,5368
+Inkigayo,2024-01-14,1,aespa,Drama,7330
 Inkigayo,2024-01-14,2,Taeyeon,To. X,5279
 Inkigayo,2024-01-14,3,JENNIE,You & Me,5203
+Inkigayo,2024-01-21,1,RIIZE,Love 119,6167
 Inkigayo,2024-01-21,2,ITZY,UNTOUCHABLE,5530
+Inkigayo,2024-01-28,1,NMIXX,DASH,5901
 Inkigayo,2024-01-28,2,Lim Jae-hyun,Rhapsody Of Sadness,4960
 Inkigayo,2024-01-28,3,Taeyeon,To. X,4377
+Inkigayo,2024-02-04,1,IU,Love wins all,8808
 Inkigayo,2024-02-04,2,Taeyeon,To. X,5238
 Inkigayo,2024-02-04,3,Lim Jae-hyun,Rhapsody Of Sadness,4962
+Inkigayo,2024-02-18,1,IU,Love wins all,8596
 Inkigayo,2024-02-18,2,(G)I-DLE,Super Lady,6996
 Inkigayo,2024-02-18,3,(G)I-DLE,Wife,6269
+Inkigayo,2024-02-25,1,IU,Love wins all,7692
 Inkigayo,2024-02-25,2,TWS,plot twist,6107
 Inkigayo,2024-02-25,3,(G)I-DLE,Super Lady,6065
+Inkigayo,2024-03-03,1,LE SSERAFIM,EASY,7400
 Inkigayo,2024-03-03,2,BIBI,Bam Yang Gang,6268
 Inkigayo,2024-03-03,3,TWS,plot twist,4975
+Inkigayo,2024-03-10,1,LE SSERAFIM,EASY,7148
 Inkigayo,2024-03-10,2,BIBI,Bam Yang Gang,6333
 Inkigayo,2024-03-10,3,TWS,plot twist,4860
+Inkigayo,2024-03-17,1,BIBI,Bam Yang Gang,6729
 Inkigayo,2024-03-17,2,LE SSERAFIM,EASY,6593
 Inkigayo,2024-03-17,3,TWS,plot twist,5367
+Inkigayo,2024-03-24,1,TWS,plot twist,6414
 Inkigayo,2024-03-24,2,BIBI,Bam Yang Gang,6219
 Inkigayo,2024-03-24,3,(G)I-DLE,Fate,5246
+Inkigayo,2024-03-31,1,(G)I-DLE,Fate,6119
 Inkigayo,2024-03-31,2,BIBI,Bam Yang Gang,5506
 Inkigayo,2024-03-31,3,TWS,plot twist,5272
+Inkigayo,2024-04-07,1,(G)I-DLE,Fate,6104
 Inkigayo,2024-04-07,2,ILLIT,Magnetic,5464
 Inkigayo,2024-04-07,3,BIBI,Bam Yang Gang,5083
+Inkigayo,2024-04-14,1,(G)I-DLE,Fate,6056
 Inkigayo,2024-04-14,2,ILLIT,Magnetic,5291
 Inkigayo,2024-04-14,3,TWS,plot twist,4882
+Inkigayo,2024-04-21,1,ILLIT,Magnetic,7545
 Inkigayo,2024-04-21,2,TWS,plot twist,5447
 Inkigayo,2024-04-21,3,BIBI,Bam Yang Gang,4834
+Inkigayo,2024-04-28,1,ILLIT,Magnetic,6306
 Inkigayo,2024-04-28,2,BOYNEXTDOOR,"Earth, Wind & Fire",5778
 Inkigayo,2024-04-28,3,TWS,plot twist,4687
+Inkigayo,2024-05-05,1,ILLIT,Magnetic,6640
 Inkigayo,2024-05-05,2,BABYMONSTER,Sheesh,5998
 Inkigayo,2024-05-05,3,TWS,plot twist,4474
+Inkigayo,2024-05-12,1,Zico,SPOT! (feat. JENNIE),6861
 Inkigayo,2024-05-12,2,SEVENTEEN,MAESTRO,6733
 Inkigayo,2024-05-12,3,IVE,HEYA,6205
+Inkigayo,2024-05-19,1,Zico,SPOT! (feat. JENNIE),7968
 Inkigayo,2024-05-19,2,IVE,HEYA,6744
 Inkigayo,2024-05-19,3,BABYMONSTER,Sheesh,5796
+Inkigayo,2024-05-26,1,aespa,Supernova,6807
 Inkigayo,2024-05-26,2,Zico,SPOT! (feat. JENNIE),6465
 Inkigayo,2024-05-26,3,IVE,HEYA,5657
+Inkigayo,2024-06-16,1,aespa,Supernova,8411
 Inkigayo,2024-06-16,2,aespa,Armageddon,6607
 Inkigayo,2024-06-16,3,NewJeans,How Sweet,6217
+Inkigayo,2024-06-23,1,aespa,Supernova,7007
 Inkigayo,2024-06-23,2,NewJeans,How Sweet,5556
 Inkigayo,2024-06-23,3,Zico,SPOT! (feat. JENNIE),4309
+Inkigayo,2024-06-30,1,RIIZE,Boom Boom Bass,6353
 Inkigayo,2024-06-30,2,NewJeans,How Sweet,6157
 Inkigayo,2024-06-30,3,aespa,Armageddon,4508
+Inkigayo,2024-07-07,1,Lee Young-Ji,Small girl (ft. D.O.),7227
 Inkigayo,2024-07-07,2,TWS,"If I'm S, Can You Be My N?",6189
 Inkigayo,2024-07-07,3,NewJeans,How Sweet,5626
+Inkigayo,2024-07-14,1,Lee Young-Ji,Small girl (ft. D.O.),6150
 Inkigayo,2024-07-14,2,NewJeans,How Sweet,5839
 Inkigayo,2024-07-14,3,QWER,T.B.H,4173
+Inkigayo,2024-08-11,1,(G)I-DLE,Klaxon,6883
 Inkigayo,2024-08-11,2,NewJeans,How Sweet,6250
 Inkigayo,2024-08-11,3,KISS OF LIFE,Sticky,5508
+Inkigayo,2024-08-18,1,(G)I-DLE,Klaxon,6862
 Inkigayo,2024-08-18,2,STRAY KIDS,Chk Chk Boom,6292
 Inkigayo,2024-08-18,3,NewJeans,How Sweet,6059
+Inkigayo,2024-08-25,1,(G)I-DLE,Klaxon,6737
 Inkigayo,2024-08-25,2,NewJeans,How Sweet,5521
 Inkigayo,2024-08-25,3,KISS OF LIFE,Sticky,4992
+Inkigayo,2024-09-01,1,NMIXX,See that?,6591
 Inkigayo,2024-09-01,2,NewJeans,How Sweet,5974
 Inkigayo,2024-09-01,3,KISS OF LIFE,Sticky,5165
+Inkigayo,2024-09-08,1,ZEROBASEONE,GOOD SO BAD,5739
 Inkigayo,2024-09-08,2,NewJeans,How Sweet,5676
 Inkigayo,2024-09-08,3,DAY6,Time of Our Life,5462
+Inkigayo,2024-09-22,1,BOYNEXTDOOR,Nice Guy,6371
 Inkigayo,2024-09-22,2,DAY6,Happy,5710
 Inkigayo,2024-09-22,3,DAY6,Melt Down,5225
+Inkigayo,2024-09-29,1,DAY6,Happy,6380
 Inkigayo,2024-09-29,2,DAY6,Welcome to the Show,4585
 Inkigayo,2024-09-29,3,Lee Young-Ji,Small girl (ft. D.O.),4521
+Inkigayo,2024-10-06,1,DAY6,Happy,4428
 Inkigayo,2024-10-06,2,HWASA,NA,3120
 Inkigayo,2024-10-06,3,DAY6,Welcome to the Show,2968
+Inkigayo,2024-10-27,1,ROSE,APT (with Bruno Mars),5198
 Inkigayo,2024-10-27,2,SEVENTEEN,"LOVE, MONEY, FAME",4949
 Inkigayo,2024-10-27,3,aespa,Up (KARINA),4155
+Inkigayo,2024-11-03,1,ROSE,APT (with Bruno Mars),7460
 Inkigayo,2024-11-03,2,aespa,Whiplash,4195
 Inkigayo,2024-11-03,3,aespa,Up (KARINA),2045
+Inkigayo,2024-11-10,1,ROSE,APT (with Bruno Mars),7407
 Inkigayo,2024-11-10,2,aespa,Whiplash,3004
 Inkigayo,2024-11-10,3,THE BOYZ,TRIGGER,2611
+Inkigayo,2024-11-17,1,aespa,Whiplash,5705
 Inkigayo,2024-11-17,2,TOMORROW X TOGETHER,Over The Moon,5186
 Inkigayo,2024-11-17,3,G-Dragon,POWER,4601
+Inkigayo,2024-11-24,1,aespa,Whiplash,5690
 Inkigayo,2024-11-24,2,ENHYPEN,No Doubt,4208
 Inkigayo,2024-11-24,3,G-Dragon,POWER,4145
+Inkigayo,2024-12-01,1,aespa,Whiplash,5872
 Inkigayo,2024-12-01,2,G-Dragon,HOME SWEET HOME,4312
 Inkigayo,2024-12-01,3,BABYMONSTER,DRIP,3642
+Inkigayo,2024-12-15,1,G-Dragon,HOME SWEET HOME,5984
 Inkigayo,2024-12-15,2,Twice,Strategy (ft. Megan Thee Stallion),4166
-Inkigayo,2024-12-15,3,ROSÉ,number one girl,3816
-Inkigayo,2025-01-05,2,ROSÉ,toxic till the end,4835
-Inkigayo,2025-01-05,3,ROSÉ,number one girl,4100
-Inkigayo,2025-01-12,2,ROSÉ,toxic till the end,4822
+Inkigayo,2024-12-15,3,ROSE,number one girl,3816
+Inkigayo,2025-01-05,1,G-Dragon,HOME SWEET HOME,5807
+Inkigayo,2025-01-05,2,ROSE,toxic till the end,4835
+Inkigayo,2025-01-05,3,ROSE,number one girl,4100
+Inkigayo,2025-01-12,1,G-Dragon,HOME SWEET HOME,5418
+Inkigayo,2025-01-12,2,ROSE,toxic till the end,4822
 Inkigayo,2025-01-12,3,BABYMONSTER,DRIP,4647
-Inkigayo,2025-01-19,2,ROSÉ,toxic till the end,4476
+Inkigayo,2025-01-19,1,BOYNEXTDOOR,"If I Say, I LOVE YOU",5869
+Inkigayo,2025-01-19,2,ROSE,toxic till the end,4476
 Inkigayo,2025-01-19,3,BSS,CBZ (Prime time),4260
+Inkigayo,2025-01-26,1,IVE,REBEL HEART,6580
 Inkigayo,2025-01-26,2,BABYMONSTER,DRIP,4386
-Inkigayo,2025-01-26,3,ROSÉ,toxic till the end,4216
+Inkigayo,2025-01-26,3,ROSE,toxic till the end,4216
+Inkigayo,2025-02-02,1,IVE,REBEL HEART,6150
 Inkigayo,2025-02-02,2,BABYMONSTER,DRIP,4416
-Inkigayo,2025-02-02,3,ROSÉ,toxic till the end,4040
+Inkigayo,2025-02-02,3,ROSE,toxic till the end,4040
+Inkigayo,2025-02-09,1,IVE,REBEL HEART,7588
 Inkigayo,2025-02-09,2,BABYMONSTER,DRIP,5809
-Inkigayo,2025-02-09,3,ROSÉ,toxic till the end,4122
+Inkigayo,2025-02-09,3,ROSE,toxic till the end,4122
+Inkigayo,2025-02-16,1,IVE,ATTITUDE,6247
 Inkigayo,2025-02-16,2,PLAVE,Dash,4467
 Inkigayo,2025-02-16,3,Hwang Karam,I'm Firefly,3803
+Inkigayo,2025-02-23,1,IVE,ATTITUDE,5357
 Inkigayo,2025-02-23,2,Jisoo,earthquake,4247
 Inkigayo,2025-02-23,3,Hwang Karam,I'm Firefly,3962
+Inkigayo,2025-03-02,1,Jisoo,earthquake,5759
 Inkigayo,2025-03-02,2,IVE,ATTITUDE,5155
 Inkigayo,2025-03-02,3,Hwang Karam,I'm Firefly,3944
+Inkigayo,2025-03-09,1,G-Dragon,TOO BAD (feat. Anderson Paak),6788
 Inkigayo,2025-03-09,2,ZEROBASEONE,BLUE,4802
 Inkigayo,2025-03-09,3,Hwang Karam,I'm Firefly,3177
+Inkigayo,2025-03-16,1,G-Dragon,TOO BAD (feat. Anderson Paak),8906
 Inkigayo,2025-03-16,2,IVE,ATTITUDE,3485
+Inkigayo,2025-03-23,1,G-Dragon,TOO BAD (feat. Anderson Paak),5796
 Inkigayo,2025-03-23,2,LE SSERAFIM,HOT,4082
 Inkigayo,2025-03-23,3,ZOZAZZ,Don't you know,3562
+Inkigayo,2025-03-30,1,NMIXX,KNOW ABOUT ME,5070
 Inkigayo,2025-03-30,2,LE SSERAFIM,HOT,4364
 Inkigayo,2025-03-30,3,ZOZAZZ,Don't you know,4045
+Inkigayo,2025-04-06,1,LE SSERAFIM,HOT,5411
 Inkigayo,2025-04-06,2,ZOZAZZ,Don't you know,4637
 Inkigayo,2025-04-06,3,KiiiKiii,I DO ME,4209
+Music Bank,2022-01-07,1,NCT U,Universe (Let's Play Ball),5930
+Music Bank,2022-01-14,1,Kep1er,WA DA DA,3678
+Music Bank,2022-01-21,1,ENHYPEN,Blessed-Cursed,8377
+Music Bank,2022-01-28,1,IU,Winter Sleep,2949
+Music Bank,2022-02-04,1,PENTAGON,Feelin' Like,3426
+Music Bank,2022-02-11,1,IVE,ELEVEN,3058
+Music Bank,2022-02-18,1,IVE,ELEVEN,2566
+Music Bank,2022-02-25,1,TREASURE,JIKJIN,4520
+Music Bank,2022-03-04,1,STAYC,RUN2U,6821
+Music Bank,2022-03-11,1,STAYC,RUN2U,4719
+Music Bank,2022-03-18,1,Taeyeon,INVU,9989
+Music Bank,2022-03-25,1,STRAY KIDS,Maniac,10596
+Music Bank,2022-04-01,1,Red Velvet,Feel My Rhythm,8416
+Music Bank,2022-04-08,1,NCT DREAM,Glitch Mode,10718
+Music Bank,2022-04-15,1,IVE,LOVE DIVE,12095
+Music Bank,2022-04-22,1,IVE,LOVE DIVE,7324
+Music Bank,2022-04-29,1,IVE,LOVE DIVE,6959
+Music Bank,2022-05-06,1,MONSTA X,Love,8499
+Music Bank,2022-05-13,1,LE SSERAFIM,FEARLESS,7331
+Music Bank,2022-05-20,1,TOMORROW X TOGETHER,Good Boy Gone Bad,12610
+Music Bank,2022-05-27,1,ASTRO,Candy Sugar Pop,6561
+Music Bank,2022-06-03,1,SEVENTEEN,Hot,13816
+Music Bank,2022-06-10,1,NCT DREAM,Beatbox,11069
+Music Bank,2022-06-17,1,BTS,Yet to Come,6692
+Music Bank,2022-06-24,1,BTS,Yet to Come,5573
+Music Bank,2022-07-01,1,Kep1er,Up!,7268
+Music Bank,2022-07-08,1,fromis_9,Stay That Way,8378
+Music Bank,2022-07-15,1,ENHYPEN,Future Perfect (Pass the Mic),8577
+Music Bank,2022-07-22,1,ITZY,SNEAKERS,10427
+Music Bank,2022-07-29,1,SEVENTEEN,_WORLD,10353
+Music Bank,2022-08-05,1,ATEEZ,Guerrilla,8474
+Music Bank,2022-08-12,1,ATEEZ,Guerrilla,6169
+Music Bank,2022-08-19,1,NewJeans,Attention,11150
+Music Bank,2022-08-26,1,THE BOYZ,Whisper,11097
+Music Bank,2022-09-02,1,IVE,After LIKE,12174
+Music Bank,2022-09-09,1,IVE,After LIKE,11406
+Music Bank,2022-09-16,1,ONEUS,Same Scent,8115
+Music Bank,2022-09-23,1,IVE,After LIKE,7502
+Music Bank,2022-09-30,1,NCT 127,2 Baddies,9309
+Music Bank,2022-10-07,1,IVE,After LIKE,6966
+Music Bank,2022-10-14,1,STRAY KIDS,Case 143,11168
+Music Bank,2022-10-21,1,STRAY KIDS,Case 143,8113
+Music Bank,2022-10-28,1,(G)I-DLE,Nxde,12541
+Music Bank,2022-11-04,1,LE SSERAFIM,ANTIFRAGILE,8786
+Music Bank,2022-11-11,1,LE SSERAFIM,ANTIFRAGILE,6137
+Music Bank,2022-11-18,1,Highlight,Alone,7618
+Music Bank,2022-11-25,1,Verivery,Tap Tap,6069
+Music Bank,2022-12-02,1,CSR,LOVETICON,6407
+Music Bank,2022-12-09,1,ITZY,Cheshire,8462
+Music Bank,2023-01-06,1,ATEEZ,Halazia,8793
+Music Bank,2023-01-13,1,NewJeans,Ditto,11011
+Music Bank,2023-01-20,1,MONSTA X,Beautiful Liar,10600
+Music Bank,2023-01-27,1,NewJeans,OMG,7612
+Music Bank,2023-02-03,1,TOMORROW X TOGETHER,Sugar Rush Ride,13245
+Music Bank,2023-02-10,1,NCT 127,Ay-Yo,11861
+Music Bank,2023-02-17,1,BSS,Fighting,8828
+Music Bank,2023-02-24,1,STAYC,Teddy Bear,7566
+Music Bank,2023-03-03,1,THE BOYZ,Roar,8514
+Music Bank,2023-03-10,1,THE BOYZ,Roar,6013
+Music Bank,2023-03-17,1,Twice,Set Me Free,12587
+Music Bank,2023-03-24,1,Kai,Rover,8161
+Music Bank,2023-03-31,1,Jimin,Like Crazy,9198
+Music Bank,2023-04-07,1,Jimin,Like Crazy,7682
+Music Bank,2023-04-14,1,Jisoo,Flower,7140
+Music Bank,2023-04-21,1,IVE,I Am,14690
+Music Bank,2023-04-28,1,NCT DoJaeJung,Perfume,8350
+Music Bank,2023-05-05,1,SEVENTEEN,Super,13059
+Music Bank,2023-05-12,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),13498
 Music Bank,2023-05-12,2,SEVENTEEN,Super,5135
+Music Bank,2023-05-19,1,aespa,Spicy,11842
 Music Bank,2023-05-19,2,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),7313
+Music Bank,2023-05-26,1,(G)I-DLE,Queencard,10487
+Music Bank,2023-06-02,1,ENHYPEN,Bite Me,12595
 Music Bank,2023-06-02,2,(G)I-DLE,Queencard,5909
+Music Bank,2023-06-09,1,STRAY KIDS,S-Class,13481
 Music Bank,2023-06-09,2,(G)I-DLE,Queencard,5037
+Music Bank,2023-06-16,1,STRAY KIDS,S-Class,8333
 Music Bank,2023-06-16,2,Taeyoung,SHALALA,6053
+Music Bank,2023-06-23,1,ATEEZ,Bouncy (K-Hot Chilli Peppers),11624
 Music Bank,2023-06-23,2,STRAY KIDS,S-Class,4036
+Music Bank,2023-06-30,1,ATEEZ,Bouncy (K-Hot Chilli Peppers),7410
 Music Bank,2023-06-30,2,SEVENTEEN,Super,5098
+Music Bank,2023-07-07,1,SHINee,HARD,6453
 Music Bank,2023-07-07,2,SEVENTEEN,_WORLD,4175
+Music Bank,2023-07-14,1,(G)I-DLE,Queencard,5154
 Music Bank,2023-07-14,2,SHINee,HARD,4556
+Music Bank,2023-07-21,1,EXO,Cream Soda,7269
 Music Bank,2023-07-21,2,ZEROBASEONE,In Bloom,6368
+Music Bank,2023-07-28,1,NCT DREAM,ISTJ,11841
 Music Bank,2023-07-28,2,NewJeans,Super Shy,8701
+Music Bank,2023-08-04,1,NCT DREAM,ISTJ,6122
 Music Bank,2023-08-04,2,TREASURE,BONA BONA,5611
+Music Bank,2023-08-11,1,ITZY,CAKE,10866
 Music Bank,2023-08-11,2,NewJeans,Super Shy,5885
 Music Bank,2023-08-11,3,Oh My Girl,Summer Comes,4704
 Music Bank,2023-08-11,4,NewJeans,ETA,3577
 Music Bank,2023-08-11,5,Jung Kook,Seven (feat. Latto),3455
+Music Bank,2023-08-18,1,THE BOYZ,LIP GLOSS,7306
 Music Bank,2023-08-18,2,NewJeans,Super Shy,5732
+Music Bank,2023-08-25,1,JIHYO,Killin' Me Good,5525
 Music Bank,2023-08-25,2,STAYC,Bubble,5288
+Music Bank,2023-09-01,1,STAYC,Bubble,5928
 Music Bank,2023-09-01,2,JIHYO,Killin' Me Good,4991
+Music Bank,2023-09-08,1,NCT U,Baggy Jeans,11881
 Music Bank,2023-09-08,2,Jung Kook,Seven (feat. Latto),4135
+Music Bank,2023-09-15,1,V,Slow Dancing,9234
 Music Bank,2023-09-15,2,RIIZE,Get A Guitar,5039
+Music Bank,2023-09-22,1,V,Slow Dancing,6587
 Music Bank,2023-09-22,2,Cravity,Ready Or Not,6553
+Music Bank,2023-09-29,1,TEMPEST,Vroom Vroom,5914
 Music Bank,2023-09-29,2,AKMU,Love Lee,3366
 Music Bank,2023-09-29,3,V,Slow Dancing,2776
 Music Bank,2023-09-29,4,NewJeans,Super Shy,2672
 Music Bank,2023-09-29,5,NewJeans,ETA,2633
+Music Bank,2023-10-06,1,ONEUS,Baila Conmigo,5408
 Music Bank,2023-10-06,2,RIIZE,Get A Guitar,3768
 Music Bank,2023-10-06,3,AKMU,Love Lee,3345
+Music Bank,2023-10-13,1,NCT 127,Fact Check,8896
 Music Bank,2023-10-13,2,Jung Kook,3D,4694
+Music Bank,2023-10-20,1,TOMORROW X TOGETHER,Chasing That Feeling,8897
 Music Bank,2023-10-20,2,NCT 127,Fact Check,5714
 Music Bank,2023-10-20,3,IVE,Either Way,5067
 Music Bank,2023-10-20,4,IVE,Baddie,3350
 Music Bank,2023-10-20,5,Jung Kook,3D,3202
+Music Bank,2023-10-27,1,TOMORROW X TOGETHER,Chasing That Feeling,5906
 Music Bank,2023-10-27,2,IVE,Either Way,4821
+Music Bank,2023-11-03,1,SEVENTEEN,God of Music,16281
 Music Bank,2023-11-03,2,IVE,Baddie,3478
+Music Bank,2023-11-10,1,Jung Kook,Seven (feat. Latto),9776
 Music Bank,2023-11-10,2,TAEMIN,Guilty,5914
+Music Bank,2023-11-17,1,STRAY KIDS,LA LA LA LA,10481
 Music Bank,2023-11-17,2,ZEROBASEONE,CRUSH,8722
+Music Bank,2023-11-24,1,ENHYPEN,Sweet Venom,11542
 Music Bank,2023-11-24,2,Red Velvet,Chill Kill,5819
+Music Bank,2023-12-01,1,THE BOYZ,Watch It,7511
 Music Bank,2023-12-01,2,ZEROBASEONE,CRUSH,5127
+Music Bank,2023-12-08,1,ATEEZ,Crazy Form,10386
 Music Bank,2023-12-08,2,EXO,The First Snow,2889
 Music Bank,2023-12-08,3,LE SSERAFIM,Perfect Night,2544
 Music Bank,2023-12-08,4,Taeyeon,To. X,2338
 Music Bank,2023-12-08,5,aespa,Drama,2180
+Music Bank,2023-12-15,1,ATEEZ,Crazy Form,6348
 Music Bank,2023-12-15,2,Jung Kook,Seven (feat. Latto),5124
 Music Bank,2023-12-15,3,LE SSERAFIM,Perfect Night,2632
 Music Bank,2023-12-15,4,aespa,Drama,2526
 Music Bank,2023-12-15,5,IVE,Baddie,2188
+Music Bank,2023-12-22,1,ATEEZ,Crazy Form,5411
 Music Bank,2023-12-22,2,EXO,The First Snow,3515
+Music Bank,2023-12-29,1,EXO,The First Snow,4543
 Music Bank,2023-12-29,2,Red Velvet,Chill Kill,3313
 Music Bank,2023-12-29,3,Taeyeon,To. X,2478
 Music Bank,2023-12-29,4,LE SSERAFIM,Perfect Night,2383
 Music Bank,2023-12-29,5,aespa,Drama,2197
+Music Bank,2024-01-26,1,NMIXX,DASH,11952
 Music Bank,2024-01-26,2,JD1,who Am I,2499
+Music Bank,2024-02-02,1,EVNNE,UGLY,6734
 Music Bank,2024-02-02,2,TWS,plot twist,5999
+Music Bank,2024-02-09,1,IU,Love wins all,3389
 Music Bank,2024-02-09,2,(G)I-DLE,Super Lady,3207
 Music Bank,2024-02-09,3,BTS,Dynamite,2887
+Music Bank,2024-02-16,1,P1Harmony,Killin' It,8694
 Music Bank,2024-02-16,2,(G)I-DLE,Super Lady,4574
+Music Bank,2024-02-23,1,TWS,plot twist,4896
 Music Bank,2024-02-23,2,TEN,Nightwalker,3739
+Music Bank,2024-03-01,1,LE SSERAFIM,EASY,9874
 Music Bank,2024-03-01,2,Twice,ONE SPARK,8165
+Music Bank,2024-03-08,1,Cravity,Love or Die,7432
 Music Bank,2024-03-08,2,LE SSERAFIM,EASY,5033
+Music Bank,2024-03-15,1,LE SSERAFIM,EASY,4492
 Music Bank,2024-03-15,2,NCT WISH,WISH,4374
+Music Bank,2024-03-22,1,Highlight,BODY,7255
 Music Bank,2024-03-22,2,WENDY,Wish You Hell,6892
+Music Bank,2024-03-29,1,THE BOYZ,Nectar,9747
 Music Bank,2024-03-29,2,(G)I-DLE,Fate,3794
+Music Bank,2024-04-05,1,NCT DREAM,Smoothie,11596
 Music Bank,2024-04-05,2,ILLIT,Magnetic,4913
+Music Bank,2024-04-12,1,TOMORROW X TOGETHER,Deja Vu,10327
 Music Bank,2024-04-12,2,ILLIT,Magnetic,5064
+Music Bank,2024-04-19,1,ILLIT,Magnetic,5096
 Music Bank,2024-04-19,2,TOMORROW X TOGETHER,Deja Vu,3792
 Music Bank,2024-04-19,3,ONF,Bye My Monster,3463
+Music Bank,2024-04-26,1,BOYNEXTDOOR,"Earth, Wind & Fire",11210
 Music Bank,2024-04-26,2,ILLIT,Magnetic,6026
+Music Bank,2024-05-03,1,Lee Chan-won,A Travel to the Sky,7227
 Music Bank,2024-05-03,2,ILLIT,Magnetic,4678
+Music Bank,2024-05-10,1,SEVENTEEN,MAESTRO,8614
 Music Bank,2024-05-10,2,IVE,HEYA,7697
+Music Bank,2024-05-17,1,SEVENTEEN,MAESTRO,7216
 Music Bank,2024-05-17,2,IVE,HEYA,6991
+Music Bank,2024-05-24,1,ZEROBASEONE,Feel The POP,13101
 Music Bank,2024-05-24,2,aespa,Supernova,4569
+Music Bank,2024-05-31,1,NewJeans,How Sweet,9836
 Music Bank,2024-05-31,2,aespa,Supernova,5272
+Music Bank,2024-06-07,1,ATEEZ,WORK,10828
 Music Bank,2024-06-07,2,aespa,Supernova,9876
+Music Bank,2024-06-14,1,aespa,Supernova,7493
 Music Bank,2024-06-14,2,WayV,Give me That,7216
+Music Bank,2024-06-21,1,Nayeon,ABCD,8864
 Music Bank,2024-06-21,2,aespa,Supernova,5112
+Music Bank,2024-06-28,1,RIIZE,Boom Boom Bass,9979
 Music Bank,2024-06-28,2,aespa,Supernova,3975
+Music Bank,2024-07-05,1,TWS,"If I'm S, Can You Be My N?",10430
 Music Bank,2024-07-05,2,Red Velvet,Cosmic,7148
+Music Bank,2024-07-12,1,STAYC,Cheeky Icy Thang,7502
 Music Bank,2024-07-12,2,NCT WISH,Songbird,6959
+Music Bank,2024-07-19,1,ENHYPEN,XO (Only If You Say Yes),11233
 Music Bank,2024-07-19,2,(G)I-DLE,Klaxon,7239
+Music Bank,2024-07-26,1,STRAY KIDS,Chk Chk Boom,11462
 Music Bank,2024-07-26,2,NCT 127,Walk,7029
+Music Bank,2024-08-02,1,NCT 127,Walk,8335
 Music Bank,2024-08-02,2,STRAY KIDS,Chk Chk Boom,6340
 Music Bank,2024-08-02,3,ENHYPEN,XO (Only If You Say Yes),3815
+Music Bank,2024-08-09,1,NCT 127,Walk,6453
 Music Bank,2024-08-09,2,STRAY KIDS,Chk Chk Boom,6111
 Music Bank,2024-08-09,3,ENHYPEN,Brought The Heat Back,3207
+Music Bank,2024-08-16,1,STRAY KIDS,Chk Chk Boom,8031
 Music Bank,2024-08-16,2,aespa,Supernova,3601
+Music Bank,2024-08-23,1,fromis_9,Supersonic,7019
 Music Bank,2024-08-23,2,aespa,Supernova,3164
+Music Bank,2024-08-30,1,NMIXX,See that?,11821
 Music Bank,2024-08-30,2,TAEMIN,Sexy In The Air,3766
+Music Bank,2024-09-06,1,ZEROBASEONE,GOOD SO BAD,9408
 Music Bank,2024-09-06,2,LE SSERAFIM,CRAZY,7155
+Music Bank,2024-09-13,1,Baekhyun,Pineapple Slice,5939
 Music Bank,2024-09-13,2,Tzuyu,Run Away,5345
+Music Bank,2024-09-20,1,BOYNEXTDOOR,Nice Guy,11574
 Music Bank,2024-09-20,2,DAY6,Melt Down,3397
+Music Bank,2024-09-27,1,P1Harmony,SAD SONG,6864
 Music Bank,2024-09-27,2,RIIZE,Boom Boom Bass,5628
+Music Bank,2024-10-04,1,NCT WISH,Steady,10037
 Music Bank,2024-10-04,2,Kang Daniel,Electric Shock,4234
+Music Bank,2024-10-11,1,VANNER,Automatic,6788
 Music Bank,2024-10-11,2,NCT WISH,Steady,5531
 Music Bank,2024-10-11,3,YENA,NEMONEMO,3146
+Music Bank,2024-10-18,1,The Wind,"Hello, My First Love",5556
 Music Bank,2024-10-18,2,QWER,My Name Is Malgeum,4381
+Music Bank,2024-10-25,1,SEVENTEEN,"LOVE, MONEY, FAME",10051
 Music Bank,2024-10-25,2,ITZY,GOLD,5574
+Music Bank,2024-11-01,1,aespa,Whiplash,11082
 Music Bank,2024-11-01,2,ILLIT,Cherish (My Love),7418
+Music Bank,2024-11-08,1,THE BOYZ,TRIGGER,7275
 Music Bank,2024-11-08,2,aespa,Whiplash,6388
-Music Bank,2024-11-15,2,ROSÉ,APT (with Bruno Mars),4700
+Music Bank,2024-11-15,1,TOMORROW X TOGETHER,Over The Moon,11171
+Music Bank,2024-11-15,2,ROSE,APT (with Bruno Mars),4700
+Music Bank,2024-11-22,1,NCT DREAM,When I'm With You,8016
 Music Bank,2024-11-22,2,ENHYPEN,No Doubt,7709
-Music Bank,2024-11-29,2,ROSÉ,APT (with Bruno Mars),3756
+Music Bank,2024-11-29,1,ATEEZ,Ice On My Teeth,9219
+Music Bank,2024-11-29,2,ROSE,APT (with Bruno Mars),3756
+Music Bank,2024-12-06,1,WayV,FREQUENCY,6354
 Music Bank,2024-12-06,2,TWS,Last Festival,5994
+Music Bank,2024-12-13,1,Twice,Strategy (ft. Megan Thee Stallion),10488
 Music Bank,2024-12-13,2,Cravity,Now or Never,5840
-Music Bank,2024-12-13,3,ROSÉ,APT (with Bruno Mars),4891
+Music Bank,2024-12-13,3,ROSE,APT (with Bruno Mars),4891
 Music Bank,2024-12-13,4,aespa,Whiplash,3136
 Music Bank,2024-12-13,5,G-Dragon,POWER,2408
+Music Bank,2024-12-20,1,STRAY KIDS,Walkin On Water,8556
 Music Bank,2024-12-20,2,Twice,Strategy (ft. Megan Thee Stallion),5786
-Music Bank,2024-12-20,3,ROSÉ,APT (with Bruno Mars),3708
+Music Bank,2024-12-20,3,ROSE,APT (with Bruno Mars),3708
 Music Bank,2024-12-20,4,Cravity,Now or Never,3483
+Music Bank,2025-01-03,1,ROSE,APT (with Bruno Mars),4087
 Music Bank,2025-01-03,2,STRAY KIDS,Walkin On Water,3433
 Music Bank,2025-01-03,3,aespa,Whiplash,3000
-Music Bank,2025-01-10,2,ROSÉ,APT (with Bruno Mars),3379
-Music Bank,2025-01-17,2,BOYNEXTDOOR,"If I Say, I LOVE OU",3922
+Music Bank,2025-01-10,1,n.SSign,Love Potion,7525
+Music Bank,2025-01-10,2,ROSE,APT (with Bruno Mars),3379
+Music Bank,2025-01-17,1,BSS,CBZ (Prime time),10191
+Music Bank,2025-01-17,2,BOYNEXTDOOR,"If I Say, I LOVE YOU",3922
+Music Bank,2025-01-24,1,IVE,REBEL HEART,4356
 Music Bank,2025-01-24,2,Hwang Karam,I'm Firefly,3531
+Music Bank,2025-01-31,1,MINNIE,HER,7505
 Music Bank,2025-01-31,2,IVE,REBEL HEART,4148
 Music Bank,2025-01-31,3,GOT7,PYTHON,3584
 Music Bank,2025-01-31,4,aespa,Whiplash,2462
-Music Bank,2025-01-31,5,ROSÉ,APT (with Bruno Mars),2357
+Music Bank,2025-01-31,5,ROSE,APT (with Bruno Mars),2357
+Music Bank,2025-02-07,1,Eunhyuk,UP N DOWN,7917
 Music Bank,2025-02-07,2,IVE,REBEL HEART,5014
+Music Bank,2025-02-14,1,IVE,REBEL HEART,11520
 Music Bank,2025-02-14,2,IVE,ATTITUDE,4890
+Music Bank,2025-02-21,1,EVNNE,HOT MESS,8166
 Music Bank,2025-02-21,2,IVE,REBEL HEART,5649
+Music Bank,2025-02-28,1,ONF,The Stranger,7680
 Music Bank,2025-02-28,2,IVE,REBEL HEART,3885
+Music Bank,2025-03-07,1,ZEROBASEONE,BLUE,10235
 Music Bank,2025-03-07,2,Hearts2Hearts,The Chase,5400
+Music Bank,2025-03-14,1,G-Dragon,TOO BAD (feat. Anderson Paak),6271
 Music Bank,2025-03-14,2,Infinite,Dangerous,3746
+Music Bank,2025-03-21,1,LE SSERAFIM,HOT,9917
 Music Bank,2025-03-21,2,G-Dragon,TOO BAD (feat. Anderson Paak),5694
+Music Bank,2025-03-28,1,NMIXX,KNOW ABOUT ME,11040
 Music Bank,2025-03-28,2,THE BOYZ,VVV,6667
+Music Bank,2025-04-04,1,TEN,STUNNER,7752
 Music Bank,2025-04-04,2,KiiiKiii,I DO ME,7148
+M Countdown,2022-01-13,1,Kep1er,WA DA DA,6500
+M Countdown,2022-01-20,1,Kep1er,WA DA DA,6569
+M Countdown,2022-01-27,1,Whee in,Make Me happy,7220
+M Countdown,2022-02-03,1,GOT the beat,Step Back,0
+M Countdown,2022-02-10,1,YENA,Smiley,8097
+M Countdown,2022-02-17,1,VIVIZ,BOP BOP!,6564
+M Countdown,2022-02-24,1,Taeyeon,INVU,9676
+M Countdown,2022-03-03,1,BtoB,The Song,8976
+M Countdown,2022-03-10,1,STAYC,RUN2U,0
+M Countdown,2022-03-17,1,STAYC,RUN2U,6569
+M Countdown,2022-03-24,1,(G)I-DLE,TOMBOY,8259
+M Countdown,2022-03-31,1,(G)I-DLE,TOMBOY,7688
+M Countdown,2022-04-07,1,NCT DREAM,Glitch Mode,7536
+M Countdown,2022-04-14,1,BIGBANG,Still Life,8181
+M Countdown,2022-04-21,1,BIGBANG,Still Life,8216
+M Countdown,2022-04-28,1,BIGBANG,Still Life,8256
+M Countdown,2022-05-05,1,IVE,LOVE DIVE,7520
+M Countdown,2022-05-12,1,Lim Young-woong,If We Ever Meet Again,8896
+M Countdown,2022-05-19,1,PSY,That That,0
+M Countdown,2022-05-26,1,ASTRO,Candy Sugar Pop,8434
+M Countdown,2022-06-02,1,SEVENTEEN,Hot,7718
+M Countdown,2022-06-09,1,NCT DREAM,Beatbox,0
+M Countdown,2022-06-16,1,BTS,Yet to Come,10333
+M Countdown,2022-06-23,1,BTS,Yet to Come,11000
+M Countdown,2022-06-30,1,BTS,Yet to Come,9037
+M Countdown,2022-07-07,1,fromis_9,Stay That Way,9262
+M Countdown,2022-07-14,1,Nayeon,POP!,7266
+M Countdown,2022-07-21,1,aespa,Girls,7741
+M Countdown,2022-07-28,1,SEVENTEEN,_WORLD,10633
+M Countdown,2022-08-04,1,SEVENTEEN,_WORLD,6746
+M Countdown,2022-08-11,1,ITZY,SNEAKERS,7944
+M Countdown,2022-08-18,1,NewJeans,Attention,0
+M Countdown,2022-08-25,1,BLACKPINK,Pink Venom,7951
+M Countdown,2022-09-01,1,BLACKPINK,Pink Venom,9071
+M Countdown,2022-09-08,1,BLACKPINK,Pink Venom,9033
+M Countdown,2022-09-15,1,IVE,After LIKE,0
+M Countdown,2022-09-22,1,BLACKPINK,Shut Down,9316
+M Countdown,2022-09-29,1,BLACKPINK,Shut Down,8377
+M Countdown,2022-10-06,1,BLACKPINK,Shut Down,9468
+M Countdown,2022-10-13,1,STRAY KIDS,Case 143,7658
+M Countdown,2022-10-20,1,STRAY KIDS,Case 143,10756
 M Countdown,2022-10-20,2,TREASURE,Hello,5466
+M Countdown,2022-10-27,1,(G)I-DLE,Nxde,0
+M Countdown,2022-11-10,1,Jin,The Astronaut,0
+M Countdown,2022-12-29,1,NCT DREAM,Candy,6323
+M Countdown,2023-01-12,1,NewJeans,OMG,7834
+M Countdown,2023-01-19,1,Taeyang,Vibe,5737
+M Countdown,2023-01-26,1,NewJeans,OMG,0
+M Countdown,2023-02-02,1,TOMORROW X TOGETHER,Sugar Rush Ride,6870
+M Countdown,2023-02-09,1,TOMORROW X TOGETHER,Sugar Rush Ride,9489
+M Countdown,2023-02-16,1,BSS,Fighting,10669
+M Countdown,2023-02-23,1,BSS,Fighting,8894
+M Countdown,2023-03-02,1,BSS,Fighting,8265
+M Countdown,2023-03-09,1,J-Hope,On the Street,8500
+M Countdown,2023-03-16,1,J-Hope,On the Street,7767
+M Countdown,2023-03-23,1,Jimin,Set Me Free (Pt.2),8414
+M Countdown,2023-03-30,1,Jimin,Like Crazy,9855
+M Countdown,2023-04-06,1,Jimin,Like Crazy,0
+M Countdown,2023-04-13,1,Jisoo,Flower,8890
+M Countdown,2023-04-20,1,IVE,I Am,8941
+M Countdown,2023-04-27,1,IVE,I Am,7139
+M Countdown,2023-05-04,1,SEVENTEEN,Super,9603
+M Countdown,2023-05-11,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),8575
+M Countdown,2023-05-18,1,aespa,Spicy,8207
 M Countdown,2023-05-18,2,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),6448
+M Countdown,2023-05-25,1,(G)I-DLE,Queencard,9207
+M Countdown,2023-06-01,1,ENHYPEN,Bite Me,8813
 M Countdown,2023-06-01,2,(G)I-DLE,Queencard,7139
+M Countdown,2023-06-08,1,STRAY KIDS,S-Class,6720
 M Countdown,2023-06-08,2,(G)I-DLE,Queencard,6705
+M Countdown,2023-06-15,1,STRAY KIDS,S-Class,0
+M Countdown,2023-06-22,1,BTS,Take Two,7500
 M Countdown,2023-06-22,2,STRAY KIDS,S-Class,5216
+M Countdown,2023-06-29,1,BTS,Take Two,7750
 M Countdown,2023-06-29,2,STRAY KIDS,S-Class,7448
+M Countdown,2023-07-06,1,BTS,Take Two,7671
 M Countdown,2023-07-06,2,SHINee,HARD,6146
+M Countdown,2023-07-13,1,NewJeans,Super Shy,5848
 M Countdown,2023-07-13,2,SHINee,HARD,4421
+M Countdown,2023-07-20,1,Jung Kook,Seven (feat. Latto),6068
 M Countdown,2023-07-20,2,NewJeans,Super Shy,5344
+M Countdown,2023-07-27,1,Jung Kook,Seven (feat. Latto),7606
 M Countdown,2023-07-27,2,NewJeans,Super Shy,6244
+M Countdown,2023-08-03,1,Jung Kook,Seven (feat. Latto),7737
 M Countdown,2023-08-03,2,NewJeans,Super Shy,5571
+M Countdown,2023-08-10,1,NewJeans,ETA,6136
 M Countdown,2023-08-10,2,ITZY,CAKE,5660
+M Countdown,2023-08-17,1,NewJeans,ETA,0
 M Countdown,2023-08-17,2,V,Love Me Again,0
+M Countdown,2023-08-24,1,V,Love Me Again,7864
 M Countdown,2023-08-24,2,STAYC,Bubble,3501
+M Countdown,2023-08-31,1,V,Love Me Again,7751
 M Countdown,2023-08-31,2,SOMI,Fast Forward,4571
+M Countdown,2023-09-07,1,V,Love Me Again,7618
 M Countdown,2023-09-07,2,NCT U,Baggy Jeans,5880
+M Countdown,2023-09-14,1,V,Slow Dancing,9557
 M Countdown,2023-09-14,2,AKMU,Love Lee,5250
+M Countdown,2023-09-21,1,V,Slow Dancing,9096
 M Countdown,2023-09-21,2,AKMU,Love Lee,3591
+M Countdown,2023-09-28,1,V,Slow Dancing,0
+M Countdown,2023-10-05,1,Jung Kook,3D,0
+M Countdown,2023-10-12,1,Jung Kook,3D,8436
 M Countdown,2023-10-12,2,NCT 127,Fact Check,4932
+M Countdown,2023-10-19,1,Jung Kook,3D,7874
 M Countdown,2023-10-19,2,TOMORROW X TOGETHER,Chasing That Feeling,5057
+M Countdown,2023-10-26,1,IVE,Baddie,0
+M Countdown,2023-11-02,1,SEVENTEEN,God of Music,0
 M Countdown,2023-11-02,2,IVE,Baddie,0
+M Countdown,2023-11-09,1,Jung Kook,Standing Next To You,9622
 M Countdown,2023-11-09,2,LE SSERAFIM,Perfect Night,5614
+M Countdown,2023-11-16,1,Jung Kook,Standing Next To You,8237
 M Countdown,2023-11-16,2,STRAY KIDS,LA LA LA LA,6051
+M Countdown,2024-01-11,1,Jimin,Closer Than This,7500
 M Countdown,2024-01-11,2,RIIZE,Love 119,4987
+M Countdown,2024-01-18,1,RIIZE,Love 119,8174
 M Countdown,2024-01-18,2,ITZY,UNTOUCHABLE,6720
+M Countdown,2024-01-25,1,NMIXX,DASH,9338
 M Countdown,2024-01-25,2,RIIZE,Love 119,8229
+M Countdown,2024-02-01,1,IU,Love wins all,7443
 M Countdown,2024-02-01,2,(G)I-DLE,Wife,6305
+M Countdown,2024-02-08,1,(G)I-DLE,Super Lady,8780
 M Countdown,2024-02-08,2,IU,Love wins all,6379
+M Countdown,2024-02-15,1,(G)I-DLE,Super Lady,0
+M Countdown,2024-02-22,1,(G)I-DLE,Super Lady,7268
 M Countdown,2024-02-22,2,IU,Love wins all,6460
+M Countdown,2024-02-29,1,LE SSERAFIM,EASY,9428
 M Countdown,2024-02-29,2,Twice,ONE SPARK,5020
+M Countdown,2024-03-07,1,LE SSERAFIM,EASY,8502
 M Countdown,2024-03-07,2,BIBI,Bam Yang Gang,5460
+M Countdown,2024-03-14,1,LE SSERAFIM,EASY,7900
 M Countdown,2024-03-14,2,BIBI,Bam Yang Gang,5534
+M Countdown,2024-03-21,1,V,FRI(END)S,7950
 M Countdown,2024-03-21,2,Twice,ONE SPARK,5169
+M Countdown,2024-03-28,1,V,FRI(END)S,7767
 M Countdown,2024-03-28,2,THE BOYZ,Nectar,4214
+M Countdown,2024-04-04,1,NCT DREAM,Smoothie,7189
 M Countdown,2024-04-04,2,ILLIT,Magnetic,6867
+M Countdown,2024-04-11,1,TOMORROW X TOGETHER,Deja Vu,6402
 M Countdown,2024-04-11,2,ILLIT,Magnetic,6114
+M Countdown,2024-04-18,1,ILLIT,Magnetic,6676
 M Countdown,2024-04-18,2,BABYMONSTER,Sheesh,5371
+M Countdown,2024-04-25,1,ILLIT,Magnetic,6262
 M Countdown,2024-04-25,2,BABYMONSTER,Sheesh,5689
+M Countdown,2024-05-02,1,BABYMONSTER,Sheesh,8802
 M Countdown,2024-05-02,2,Zico,SPOT! (feat. JENNIE),4260
+M Countdown,2024-05-09,1,SEVENTEEN,MAESTRO,0
+M Countdown,2024-05-16,1,SEVENTEEN,MAESTRO,6797
 M Countdown,2024-05-16,2,Zico,SPOT! (feat. JENNIE),6460
+M Countdown,2024-05-23,1,aespa,Supernova,7214
 M Countdown,2024-05-23,2,ZEROBASEONE,Feel The POP,5776
+M Countdown,2024-05-30,1,aespa,Supernova,7960
 M Countdown,2024-05-30,2,NewJeans,How Sweet,4635
+M Countdown,2024-06-06,1,aespa,Armageddon,8634
 M Countdown,2024-06-06,2,NewJeans,How Sweet,5948
+M Countdown,2024-06-13,1,aespa,Armageddon,7512
 M Countdown,2024-06-13,2,NewJeans,How Sweet,5857
+M Countdown,2024-06-20,1,aespa,Armageddon,6291
 M Countdown,2024-06-20,2,NewJeans,How Sweet,6027
+M Countdown,2024-06-27,1,RIIZE,Boom Boom Bass,8839
 M Countdown,2024-06-27,2,Jung Kook,Never Let Go,7173
+M Countdown,2024-07-04,1,Lee Young-Ji,Small girl (ft. D.O.),6031
 M Countdown,2024-07-04,2,Red Velvet,Cosmic,5865
+M Countdown,2024-07-11,1,Jimin,Smeraldo Garden Marching Band (feat. LOCO),7574
 M Countdown,2024-07-11,2,BABYMONSTER,FOREVER,5326
+M Countdown,2024-07-18,1,Jimin,Smeraldo Garden Marching Band (feat. LOCO),6966
 M Countdown,2024-07-18,2,(G)I-DLE,Klaxon,6147
+M Countdown,2024-07-25,1,STRAY KIDS,Chk Chk Boom,0
 M Countdown,2024-07-25,2,Jimin,Who,0
+M Countdown,2024-08-08,1,Jimin,Who,8907
 M Countdown,2024-08-08,2,STRAY KIDS,Chk Chk Boom,6757
+M Countdown,2024-08-15,1,Jimin,Who,0
 M Countdown,2024-08-15,2,STRAY KIDS,Chk Chk Boom,0
+M Countdown,2024-08-22,1,fromis_9,Supersonic,9953
 M Countdown,2024-08-22,2,JAEHYUN,Roses,4282
+M Countdown,2024-08-29,1,NMIXX,See that?,10293
 M Countdown,2024-08-29,2,PLAVE,Pump Up The Volume!,6345
+M Countdown,2024-09-05,1,ZEROBASEONE,GOOD SO BAD,8790
 M Countdown,2024-09-05,2,LE SSERAFIM,CRAZY,7589
+M Countdown,2024-09-12,1,LE SSERAFIM,CRAZY,7694
 M Countdown,2024-09-12,2,DAY6,Melt Down,4276
+M Countdown,2024-09-19,1,LE SSERAFIM,CRAZY,0
 M Countdown,2024-09-19,2,BOYNEXTDOOR,Nice Guy,0
+M Countdown,2024-09-26,1,LE SSERAFIM,CRAZY,6608
 M Countdown,2024-09-26,2,YEONJUN,GGUM,4821
+M Countdown,2024-10-03,1,YEONJUN,GGUM,6642
 M Countdown,2024-10-03,2,QWER,My Name Is Malgeum,5694
+M Countdown,2024-10-10,1,QWER,My Name Is Malgeum,6118
 M Countdown,2024-10-10,2,YEONJUN,GGUM,6108
+M Countdown,2024-10-17,1,JENNIE,Mantra,7894
 M Countdown,2024-10-17,2,aespa,Up (KARINA),5764
+M Countdown,2024-10-24,1,ROSE,APT (with Bruno Mars),6707
 M Countdown,2024-10-24,2,SEVENTEEN,"LOVE, MONEY, FAME",6637
+M Countdown,2024-10-31,1,ROSE,APT (with Bruno Mars),0
 M Countdown,2024-10-31,2,aespa,Whiplash,0
-M Countdown,2025-01-09,2,n.Ssign,Love Potion,2992
+M Countdown,2025-01-09,1,STRAY KIDS,Walkin On Water,8656
+M Countdown,2025-01-09,2,n.SSign,Love Potion,2992
+M Countdown,2025-01-16,1,BOYNEXTDOOR,"If I Say, I LOVE YOU",9500
 M Countdown,2025-01-16,2,BSS,CBZ (Prime time),8317
-M Countdown,2025-01-23,2,BOYNEXTDOOR,"If I Say, I LOVE OU",6077
+M Countdown,2025-01-23,1,IVE,REBEL HEART,8147
+M Countdown,2025-01-23,2,BOYNEXTDOOR,"If I Say, I LOVE YOU",6077
+M Countdown,2025-01-30,1,IVE,REBEL HEART,0
+M Countdown,2025-02-06,1,IVE,REBEL HEART,7076
 M Countdown,2025-02-06,2,JENNIE,Love Hangover (with Dominc Fike),5039
+M Countdown,2025-02-13,1,IVE,ATTITUDE,7754
 M Countdown,2025-02-13,2,JENNIE,Love Hangover (with Dominc Fike),7149
+M Countdown,2025-02-20,1,JENNIE,Love Hangover (with Dominc Fike),7765
 M Countdown,2025-02-20,2,Jisoo,earthquake,6524
+M Countdown,2025-02-27,1,Jisoo,earthquake,9266
 M Countdown,2025-02-27,2,JENNIE,ExtraL (feat. Doechii),5943
+M Countdown,2025-03-06,1,G-Dragon,TOO BAD (feat. Anderson Paak),6687
 M Countdown,2025-03-06,2,ZEROBASEONE,BLUE,6679
+M Countdown,2025-03-13,1,G-Dragon,TOO BAD (feat. Anderson Paak),7981
 M Countdown,2025-03-13,2,JENNIE,like JENNIE,7511
+M Countdown,2025-03-20,1,JENNIE,like JENNIE,6856
 M Countdown,2025-03-20,2,HOSHI X WOOZI,96ers,4529
+M Countdown,2025-03-27,1,JENNIE,like JENNIE,6719
 M Countdown,2025-03-27,2,NMIXX,KNOW ABOUT ME,5361
+M Countdown,2025-04-03,1,JENNIE,like JENNIE,6636
 M Countdown,2025-04-03,2,J-Hope,MONA LISA,5404
+M Countdown,2025-04-10,1,J-Hope,MONA LISA,7638
 M Countdown,2025-04-10,2,LE SSERAFIM,HOT,4930
+Show Champion,2022-01-19,1,ENHYPEN,Blessed-Cursed,7178
+Show Champion,2022-01-26,1,fromis_9,DM,7642
+Show Champion,2022-02-16,1,VIVIZ,BOP BOP!,7541
+Show Champion,2022-02-23,1,TREASURE,JIKJIN,5486
+Show Champion,2022-03-02,1,BtoB,The Song,5334
+Show Champion,2022-03-09,1,STAYC,RUN2U,5022
+Show Champion,2022-03-23,1,(G)I-DLE,TOMBOY,6843
+Show Champion,2022-03-30,1,STRAY KIDS,Maniac,6020
+Show Champion,2022-04-06,1,NCT DREAM,Glitch Mode,5598
+Show Champion,2022-04-13,1,IVE,LOVE DIVE,6437
+Show Champion,2022-04-20,1,Dreamcatcher,MAISON,6545
+Show Champion,2022-05-04,1,MONSTA X,Love,4383
+Show Champion,2022-05-11,1,PSY,That That,4514
+Show Champion,2022-05-18,1,PSY,That That,4506
+Show Champion,2022-05-25,1,ASTRO,Candy Sugar Pop,7237
+Show Champion,2022-06-01,1,LE SSERAFIM,FEARLESS,5127
+Show Champion,2022-06-08,1,NCT DREAM,Beatbox,9810
+Show Champion,2022-06-15,1,BTS,Yet to Come,8000
+Show Champion,2022-06-29,1,LOONA,Flip That,5439
+Show Champion,2022-07-06,1,fromis_9,Stay That Way,8690
+Show Champion,2022-07-13,1,ENHYPEN,Future Perfect (Pass the Mic),6263
+Show Champion,2022-07-20,1,aespa,Girls,6777
+Show Champion,2022-07-27,1,SEVENTEEN,_WORLD,6442
+Show Champion,2022-08-03,1,ATEEZ,Guerrilla,6189
+Show Champion,2022-08-10,1,ATEEZ,Guerrilla,5894
+Show Champion,2022-08-24,1,BLACKPINK,Pink Venom,4435
+Show Champion,2022-08-31,1,IVE,After LIKE,8632
+Show Champion,2022-09-07,1,IVE,After LIKE,5458
+Show Champion,2022-09-14,1,ONEUS,Same Scent,7450
+Show Champion,2022-09-21,1,BLACKPINK,Shut Down,5227
+Show Champion,2022-09-28,1,BLACKPINK,Shut Down,7022
+Show Champion,2022-10-05,1,BLACKPINK,Shut Down,6764
+Show Champion,2022-10-12,1,STRAY KIDS,Case 143,6733
+Show Champion,2022-10-19,1,STRAY KIDS,Case 143,6308
+Show Champion,2022-10-26,1,(G)I-DLE,Nxde,8771
+Show Champion,2022-11-09,1,(G)I-DLE,Nxde,5435
+Show Champion,2022-11-16,1,Highlight,Alone,5958
+Show Champion,2022-11-23,1,Verivery,Tap Tap,4858
+Show Champion,2022-11-30,1,TEMPEST,Dragon,7549
+Show Champion,2022-12-07,1,Red Velvet,Birthday,6022
+Show Champion,2022-12-14,1,Red Velvet,Birthday,3936
+Show Champion,2023-01-19,1,ITZY,UNTOUCHABLE,10679
 Show Champion,2023-01-19,2,SF9,BIBORA,3877
+Show Champion,2023-02-08,1,NCT 127,Ay-Yo,4751
+Show Champion,2023-02-15,1,BSS,Fighting,5963
+Show Champion,2023-02-22,1,STAYC,Teddy Bear,6240
+Show Champion,2023-03-01,1,THE BOYZ,Roar,4839
+Show Champion,2023-03-08,1,STAYC,Teddy Bear,6083
+Show Champion,2023-03-22,1,Twice,Set Me Free,5120
+Show Champion,2023-03-29,1,NMIXX,Love Me Like This,9176
+Show Champion,2023-04-05,1,Jisoo,Flower,6990
+Show Champion,2023-04-12,1,Jisoo,Flower,7058
+Show Champion,2023-04-19,1,IVE,I Am,6607
+Show Champion,2023-04-26,1,Jisoo,Flower,4870
+Show Champion,2023-05-03,1,SEVENTEEN,Super,5706
+Show Champion,2023-05-10,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),7521
+Show Champion,2023-05-24,1,(G)I-DLE,Queencard,9141
+Show Champion,2023-05-31,1,Dreamcatcher,BONVOYAGE,4732
 Show Champion,2023-05-31,2,(G)I-DLE,Queencard,4662
 Show Champion,2023-05-31,3,aespa,Spicy,3740
 Show Champion,2023-05-31,4,ENHYPEN,Bite Me,3576
 Show Champion,2023-05-31,5,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),2916
+Show Champion,2023-06-07,1,STRAY KIDS,S-Class,4790
 Show Champion,2023-06-07,2,(G)I-DLE,Queencard,4183
 Show Champion,2023-06-07,3,aespa,Spicy,3104
 Show Champion,2023-06-07,4,Secret Number,DOXA,2056
 Show Champion,2023-06-07,5,CIX,"Save me, Kill me",1637
+Show Champion,2023-06-14,1,STRAY KIDS,S-Class,5149
 Show Champion,2023-06-14,2,(G)I-DLE,Queencard,3941
 Show Champion,2023-06-14,3,Lim Young-woong,Grains of Sand,2955
 Show Champion,2023-06-14,4,P1Harmony,JUMP,2128
 Show Champion,2023-06-14,5,fromis_9,#menow,2121
+Show Champion,2023-06-21,1,ATEEZ,Bouncy (K-Hot Chilli Peppers),5821
 Show Champion,2023-06-21,2,Lim Young-woong,Grains of Sand,5438
 Show Champion,2023-06-21,3,STRAY KIDS,S-Class,4405
 Show Champion,2023-06-21,4,Kassy,Crush On You,2916
 Show Champion,2023-06-21,5,BTS,Take Two,2662
+Show Champion,2023-06-28,1,Lim Young-woong,Grains of Sand,0
+Show Champion,2023-07-05,1,SHINee,HARD,7946
 Show Champion,2023-07-05,2,Lim Young-woong,Grains of Sand,5375
 Show Champion,2023-07-05,3,WEi,OVERDRIVE,2888
 Show Champion,2023-07-05,4,Tophyun,Only You,2648
 Show Champion,2023-07-05,5,Kassy,Crush On You,2484
+Show Champion,2023-07-12,1,SHINee,HARD,6578
 Show Champion,2023-07-12,2,TREASURE,MOVE (T5),4103
 Show Champion,2023-07-12,3,BOL4,Someday (ft HaHyunSang),3099
 Show Champion,2023-07-12,4,ZiA,Because You Don't Love Me,2517
 Show Champion,2023-07-12,5,WEi,OVERDRIVE,2464
+Show Champion,2023-07-19,1,ZEROBASEONE,In Bloom,6425
 Show Champion,2023-07-19,2,EXO,Cream Soda,5631
 Show Champion,2023-07-19,3,Jung Kook,Seven (feat. Latto),4789
 Show Champion,2023-07-19,4,NMIXX,Party O'Clock,4109
 Show Champion,2023-07-19,5,SHINee,HARD,2485
+Show Champion,2023-07-26,1,NCT DREAM,ISTJ,5387
 Show Champion,2023-07-26,2,Jung Kook,Seven (feat. Latto),5297
 Show Champion,2023-07-26,3,NewJeans,Super Shy,4195
 Show Champion,2023-07-26,4,ZEROBASEONE,In Bloom,1860
 Show Champion,2023-07-26,5,NMIXX,Party O'Clock,1268
+Show Champion,2023-08-02,1,Jung Kook,Seven (feat. Latto),5545
 Show Champion,2023-08-02,2,NewJeans,Super Shy,5414
 Show Champion,2023-08-02,3,TREASURE,BONA BONA,3095
 Show Champion,2023-08-02,4,Oh My Girl,Summer Comes,3013
 Show Champion,2023-08-02,5,NCT DREAM,ISTJ,1709
+Show Champion,2023-08-09,1,Jung Kook,Seven (feat. Latto),5311
 Show Champion,2023-08-09,2,TREASURE,BONA BONA,3983
 Show Champion,2023-08-09,3,NewJeans,Super Shy,3912
 Show Champion,2023-08-09,4,ITZY,CAKE,3488
 Show Champion,2023-08-09,5,xikers,DO or DIE,2208
+Show Champion,2023-08-16,1,NewJeans,Super Shy,3779
 Show Champion,2023-08-16,2,TREASURE,BONA BONA,3352
 Show Champion,2023-08-16,3,THE BOYZ,LIP GLOSS,3272
 Show Champion,2023-08-16,4,SOMI,Fast Forward,1729
 Show Champion,2023-08-16,5,NCT DREAM,ISTJ,1325
+Show Champion,2023-08-30,1,EVERGLOW,SLAY,4392
 Show Champion,2023-08-30,2,JIHYO,Killin' Me Good,3620
 Show Champion,2023-08-30,3,AKMU,Love Lee,3601
 Show Champion,2023-08-30,4,STAYC,Bubble,3510
 Show Champion,2023-08-30,5,SOMI,Fast Forward,3431
+Show Champion,2023-09-06,1,NCT U,Baggy Jeans,4982
 Show Champion,2023-09-06,2,AKMU,Love Lee,3550
 Show Champion,2023-09-06,3,STAYC,Bubble,3433
 Show Champion,2023-09-06,4,SOMI,Fast Forward,3129
-Show Champion,2023-09-06,5,n.Ssign,Wormhole: New Track,1356
+Show Champion,2023-09-06,5,n.SSign,Wormhole: New Track,1356
+Show Champion,2023-09-13,1,BOYNEXTDOOR,But Sometimes,4486
 Show Champion,2023-09-13,2,V,Slow Dancing,4255
 Show Champion,2023-09-13,3,AKMU,Love Lee,3594
 Show Champion,2023-09-13,4,RIIZE,Get A Guitar,3155
 Show Champion,2023-09-13,5,HWASA,I Love My Body,1689
+Show Champion,2023-09-20,1,V,Slow Dancing,4599
 Show Champion,2023-09-20,2,HWASA,I Love My Body,4360
 Show Champion,2023-09-20,3,AKMU,Love Lee,3750
 Show Champion,2023-09-20,4,Cravity,Ready Or Not,3139
 Show Champion,2023-09-20,5,KEY,Good & Great,2765
+Show Champion,2023-09-27,1,TEMPEST,Vroom Vroom,5317
 Show Champion,2023-09-27,2,HWASA,I Love My Body,5020
 Show Champion,2023-09-27,3,EVNNE,TROUBLE,4194
 Show Champion,2023-09-27,4,D.O,Somebody,2026
 Show Champion,2023-09-27,5,RIIZE,Get A Guitar,1777
+Show Champion,2023-10-11,1,NCT 127,Fact Check,7059
 Show Champion,2023-10-11,2,Jung Kook,3D,6339
 Show Champion,2023-10-11,3,JENNIE,You & Me,4383
 Show Champion,2023-10-11,4,BIGNaughty,Vancouver 2,2778
 Show Champion,2023-10-11,5,EPEX,FULL METAL JACKET,2683
+Show Champion,2023-10-18,1,NCT 127,Fact Check,5082
 Show Champion,2023-10-18,2,JENNIE,You & Me,4979
 Show Champion,2023-10-18,3,TOMORROW X TOGETHER,Chasing That Feeling,4071
 Show Champion,2023-10-18,4,Lim Young-woong,Do or Die,3445
 Show Champion,2023-10-18,5,IVE,Baddie,1882
+Show Champion,2023-10-25,1,IVE,Baddie,4958
 Show Champion,2023-10-25,2,TOMORROW X TOGETHER,Chasing That Feeling,4325
 Show Champion,2023-10-25,3,JENNIE,You & Me,4176
 Show Champion,2023-10-25,4,Lim Young-woong,Do or Die,2896
 Show Champion,2023-10-25,5,"Sung Si-Kyung, Naul",Even For A Moment,1720
+Show Champion,2023-11-01,1,SEVENTEEN,God of Music,7061
 Show Champion,2023-11-01,2,IVE,Baddie,3617
 Show Champion,2023-11-01,3,JENNIE,You & Me,3547
 Show Champion,2023-11-01,4,"Sung Si-Kyung, Naul",Even For A Moment,2593
 Show Champion,2023-11-01,5,Lim Young-woong,Do or Die,1846
+Show Champion,2023-11-08,1,NiziU,HEARTRIS,4149
 Show Champion,2023-11-08,2,Jung Kook,Standing Next To You,3632
 Show Champion,2023-11-08,3,IVE,Baddie,3622
 Show Champion,2023-11-08,4,SEVENTEEN,God of Music,3366
 Show Champion,2023-11-08,5,Golden Child,Feel Me,2314
+Show Champion,2023-11-15,1,STRAY KIDS,LA LA LA LA,5500
 Show Champion,2023-11-15,2,ZEROBASEONE,CRUSH,5356
 Show Champion,2023-11-15,3,LE SSERAFIM,Perfect Night,3716
 Show Champion,2023-11-15,4,Jung Kook,Standing Next To You,3165
 Show Champion,2023-11-15,5,aespa,Drama,3100
+Show Champion,2023-12-06,1,ATEEZ,Crazy Form,5051
 Show Champion,2023-12-06,2,Taeyeon,To. X,3762
 Show Champion,2023-12-06,3,Dreamcatcher,OOTD,3260
 Show Champion,2023-12-06,4,aespa,Drama,3176
 Show Champion,2023-12-06,5,Red Velvet,Chill Kill,2034
+Show Champion,2024-01-24,1,NMIXX,DASH,6849
 Show Champion,2024-01-24,2,RIIZE,Love 119,4168
 Show Champion,2024-01-24,3,HUI,Hmm BOP,2462
 Show Champion,2024-01-24,4,SF9,BIBORA,2165
 Show Champion,2024-01-24,5,YENA,Good Morning,1776
+Show Champion,2024-01-31,1,EVNNE,UGLY,4802
 Show Champion,2024-01-31,2,TWS,plot twist,4761
 Show Champion,2024-01-31,3,RIIZE,Love 119,3886
 Show Champion,2024-01-31,4,NMIXX,DASH,2873
 Show Champion,2024-01-31,5,CIX,Lovers Or Enemies,2239
+Show Champion,2024-02-07,1,(G)I-DLE,Super Lady,6964
 Show Champion,2024-02-07,2,TWS,plot twist,5951
 Show Champion,2024-02-07,3,NMIXX,DASH,4412
 Show Champion,2024-02-07,4,GroovyRoom,"Yes or No (ft. Huh Yunjin, Crush)",3046
 Show Champion,2024-02-07,5,Jukjae,Midnight Call,1617
+Show Champion,2024-02-14,1,TWS,plot twist,5537
 Show Champion,2024-02-14,2,P1Harmony,Killin' It,4688
 Show Champion,2024-02-14,3,(G)I-DLE,Super Lady,4066
 Show Champion,2024-02-14,4,GroovyRoom,"Yes or No (ft. Huh Yunjin, Crush)",1636
 Show Champion,2024-02-14,5,NMIXX,DASH,1512
-Show Champion,2024-02-21,2,n.Ssign,Happy &,3990
+Show Champion,2024-02-21,1,TWS,plot twist,5384
+Show Champion,2024-02-21,2,n.SSign,Happy &,3990
 Show Champion,2024-02-21,3,TEN,Nightwalker,3897
 Show Champion,2024-02-21,4,(G)I-DLE,Super Lady,3226
 Show Champion,2024-02-21,5,BIBI,Bam Yang Gang,2833
+Show Champion,2024-02-28,1,LE SSERAFIM,EASY,4261
 Show Champion,2024-02-28,2,BIBI,Bam Yang Gang,3581
 Show Champion,2024-02-28,3,Moon Byul,TOUCHIN&MOVIN,3384
 Show Champion,2024-02-28,4,IU,Holssi,2441
 Show Champion,2024-02-28,5,Twice,ONE SPARK,2142
+Show Champion,2024-03-06,1,PLAVE,WAY 4 LUV,4462
 Show Champion,2024-03-06,2,BIBI,Bam Yang Gang,3601
 Show Champion,2024-03-06,3,LE SSERAFIM,EASY,3422
 Show Champion,2024-03-06,4,Taeyoung,TAP,3106
 Show Champion,2024-03-06,5,Cravity,Love or Die,2849
+Show Champion,2024-03-13,1,NCT WISH,WISH,3891
 Show Champion,2024-03-13,2,PLAVE,WAY 4 LUV,3774
 Show Champion,2024-03-13,3,BIBI,Bam Yang Gang,3695
 Show Champion,2024-03-13,4,LE SSERAFIM,EASY,3209
 Show Champion,2024-03-13,5,xikers,We Don't Stop,2860
+Show Champion,2024-03-20,1,TEMPEST,LIGHTHOUSE,5861
 Show Champion,2024-03-20,2,LE SSERAFIM,EASY,3923
 Show Champion,2024-03-20,3,Highlight,BODY,3276
 Show Champion,2024-03-20,4,WENDY,Wish You Hell,2172
 Show Champion,2024-03-20,5,xikers,We Don't Stop,1646
+Show Champion,2024-03-27,1,THE BOYZ,Nectar,5025
 Show Champion,2024-03-27,2,(G)I-DLE,Fate,3586
 Show Champion,2024-03-27,3,THE NEW SIX,FUEGO,3291
-Show Champion,2024-03-27,4,n.Ssign,FUNK JAM,3287
+Show Champion,2024-03-27,4,n.SSign,FUNK JAM,3287
 Show Champion,2024-03-27,5,DAY6,Welcome to the Show,2518
+Show Champion,2024-04-03,1,NCT DREAM,Smoothie,7210
 Show Champion,2024-04-03,2,ILLIT,Magnetic,6977
 Show Champion,2024-04-03,3,DAY6,Welcome to the Show,3586
 Show Champion,2024-04-03,4,DAVICHI,I'll be by your side,1810
 Show Champion,2024-04-03,5,UNIS,SUPERWOMAN,1383
+Show Champion,2024-04-10,1,TOMORROW X TOGETHER,Deja Vu,4776
 Show Champion,2024-04-10,2,ILLIT,Magnetic,4093
 Show Champion,2024-04-10,3,KISS OF LIFE,Midas Touch,2487
 Show Champion,2024-04-10,4,BABYMONSTER,Sheesh,1863
 Show Champion,2024-04-10,5,DAY6,Welcome to the Show,1406
+Show Champion,2024-04-17,1,ILLIT,Magnetic,4188
 Show Champion,2024-04-17,2,EPEX,Youth2Youth,3953
 Show Champion,2024-04-17,3,TOMORROW X TOGETHER,Deja Vu,3052
 Show Champion,2024-04-17,4,ONF,Bye My Monster,2114
 Show Champion,2024-04-17,5,BABYMONSTER,Sheesh,1667
+Show Champion,2024-04-24,1,BOYNEXTDOOR,"Earth, Wind & Fire",7009
 Show Champion,2024-04-24,2,QWER,T.B.H,3551
 Show Champion,2024-04-24,3,BABYMONSTER,Sheesh,3370
 Show Champion,2024-04-24,4,KISS OF LIFE,Midas Touch,1576
 Show Champion,2024-04-24,5,Woody,When You Alone,1442
+Show Champion,2024-05-01,1,Doyoung,Little Light,5116
 Show Champion,2024-05-01,2,Zico,SPOT! (feat. JENNIE),4832
 Show Champion,2024-05-01,3,YUQI,FREAK,3221
 Show Champion,2024-05-01,4,KISS OF LIFE,Midas Touch,2139
 Show Champion,2024-05-01,5,EPEX,Youth2Youth,2048
+Show Champion,2024-05-08,1,SEVENTEEN,MAESTRO,5988
 Show Champion,2024-05-08,2,Zico,SPOT! (feat. JENNIE),4113
 Show Champion,2024-05-08,3,IVE,HEYA,3635
 Show Champion,2024-05-08,4,Xdinary Heroes,Little Things,2654
 Show Champion,2024-05-08,5,Solar,But I,1200
+Show Champion,2024-05-22,1,ZEROBASEONE,Feel The POP,5858
 Show Champion,2024-05-22,2,Zico,SPOT! (feat. JENNIE),3861
 Show Champion,2024-05-22,3,tripleS,Girls Never Die,1769
 Show Champion,2024-05-22,4,SEVENTEEN,MAESTRO,1418
 Show Champion,2024-05-22,5,FANTASY BOYS,Pitter-Patter-Love,1341
+Show Champion,2024-05-29,1,NewJeans,How Sweet,5759
 Show Champion,2024-05-29,2,ZEROBASEONE,Feel The POP,4745
 Show Champion,2024-05-29,3,NEXZ,Ride the Vice,3383
 Show Champion,2024-05-29,4,tripleS,Girls Never Die,2416
 Show Champion,2024-05-29,5,ONEUS,Now,1194
+Show Champion,2024-06-05,1,aespa,Armageddon,4611
 Show Champion,2024-06-05,2,ATEEZ,WORK,3935
 Show Champion,2024-06-05,3,NewJeans,How Sweet,3783
 Show Champion,2024-06-05,4,TREASURE,KING KONG,2463
 Show Champion,2024-06-05,5,DXMON,"Girls, Love boys, Love girls",1365
+Show Champion,2024-06-12,1,Kep1er,Shooting Star,5049
 Show Champion,2024-06-12,2,NewJeans,How Sweet,3693
 Show Champion,2024-06-12,3,ATEEZ,WORK,2912
 Show Champion,2024-06-12,4,aespa,Armageddon,2640
 Show Champion,2024-06-12,5,WayV,Give me That,2217
+Show Champion,2024-06-19,1,Nayeon,ABCD,4644
 Show Champion,2024-06-19,2,aespa,Armageddon,3732
 Show Champion,2024-06-19,3,NewJeans,Bubble Gum,3657
 Show Champion,2024-06-19,4,EVERGLOW,ZOMBIE,2403
 Show Champion,2024-06-19,5,TREASURE,KING KONG,932
+Show Champion,2024-06-26,1,RIIZE,Boom Boom Bass,8098
 Show Champion,2024-06-26,2,JxW,Last Night,5065
 Show Champion,2024-06-26,3,EVNNE,Badder Love,4566
 Show Champion,2024-06-26,5,Nayeon,ABCD,2763
+Show Champion,2024-07-03,1,TWS,"If I'm S, Can You Be My N?",7139
 Show Champion,2024-07-03,2,Red Velvet,Cosmic,4403
 Show Champion,2024-07-03,3,Lee Young-Ji,Small girl (ft. D.O.),4049
 Show Champion,2024-07-03,4,RIIZE,Boom Boom Bass,1571
 Show Champion,2024-07-03,5,H1-Key,Let It Burn,1313
+Show Champion,2024-07-10,1,NCT WISH,Songbird,4779
 Show Champion,2024-07-10,2,Lee Young-Ji,Small girl (ft. D.O.),3691
 Show Champion,2024-07-10,3,KISS OF LIFE,Sticky,3354
 Show Champion,2024-07-10,4,STAYC,Cheeky Icy Thang,2183
 Show Champion,2024-07-10,5,RIIZE,Boom Boom Bass,1721
+Show Champion,2024-07-17,1,KISS OF LIFE,Sticky,4720
 Show Champion,2024-07-17,2,ENHYPEN,XO (Only If You Say Yes),4130
 Show Champion,2024-07-17,3,(G)I-DLE,Klaxon,3907
 Show Champion,2024-07-17,4,Dreamcatcher,JUSTICE,3898
 Show Champion,2024-07-17,5,TWS,"If I'm S, Can You Be My N?",1953
+Show Champion,2024-07-31,1,STRAY KIDS,Chk Chk Boom,5858
 Show Champion,2024-07-31,2,(G)I-DLE,Klaxon,4105
 Show Champion,2024-07-31,3,NCT 127,Walk,1776
-Show Champion,2024-07-31,4,nSSign,Tiger (New Flavour),1062
+Show Champion,2024-07-31,4,n.SSign,Tiger (New Flavour),1062
 Show Champion,2024-07-31,5,Jimin,Who,1039
+Show Champion,2024-08-07,1,STRAY KIDS,Chk Chk Boom,6998
 Show Champion,2024-08-07,2,NCT 127,Walk,4333
 Show Champion,2024-08-07,3,ENHYPEN,Brought The Heat Back,3765
 Show Champion,2024-08-07,4,TONY,Jigglin',2895
 Show Champion,2024-08-07,5,Jimin,Who,1504
+Show Champion,2024-08-14,1,STRAY KIDS,Chk Chk Boom,7142
 Show Champion,2024-08-14,2,UNIS,Curious,5226
 Show Champion,2024-08-14,3,BamBam,LAST PARADE,1985
 Show Champion,2024-08-14,4,Jimin,Who,1387
-Show Champion,2024-08-14,5,nSSign,Tiger (New Flavour),1095
+Show Champion,2024-08-14,5,n.SSign,Tiger (New Flavour),1095
+Show Champion,2024-09-04,1,ZEROBASEONE,GOOD SO BAD,5794
 Show Champion,2024-09-04,2,PLAVE,Pump Up The Volume!,4706
 Show Champion,2024-09-04,3,fromis_9,Supersonic,3888
 Show Champion,2024-09-04,4,NMIXX,See that?,3373
 Show Champion,2024-09-04,5,Oh My Girl,Classified,3147
+Show Champion,2024-09-11,1,LE SSERAFIM,CRAZY,4777
 Show Champion,2024-09-11,2,DAY6,Melt Down,4298
 Show Champion,2024-09-11,3,Baekhyun,Pineapple Slice,4058
 Show Champion,2024-09-11,4,YOUNHA,Sunfish,3234
 Show Champion,2024-09-11,5,Tzuyu,Run Away,2506
+Show Champion,2024-09-25,1,P1Harmony,SAD SONG,6219
 Show Champion,2024-09-25,2,DAY6,Melt Down,3677
 Show Champion,2024-09-25,3,BOYNEXTDOOR,Nice Guy,3147
 Show Champion,2024-09-25,4,MEOVV,MEOW,2153
 Show Champion,2024-09-25,5,LE SSERAFIM,CRAZY,2027
+Show Champion,2024-10-02,1,Kang Daniel,Electric Shock,4634
 Show Champion,2024-10-02,2,DAY6,Melt Down,3642
 Show Champion,2024-10-02,3,QWER,My Name Is Malgeum,3509
 Show Champion,2024-10-02,4,NCT WISH,Steady,2708
 Show Champion,2024-10-02,5,FIFTY FIFTY,SOS,2320
+Show Champion,2024-10-09,1,QWER,My Name Is Malgeum,5156
 Show Champion,2024-10-09,2,VANNER,Automatic,5021
 Show Champion,2024-10-09,3,NCT WISH,Steady,3405
 Show Champion,2024-10-09,4,YENA,NEMONEMO,2550
 Show Champion,2024-10-09,5,FIFTY FIFTY,SOS,1418
+Show Champion,2024-10-23,1,SEVENTEEN,"LOVE, MONEY, FAME",6448
 Show Champion,2024-10-23,2,JENNIE,Mantra,3682
 Show Champion,2024-10-23,3,Xdinary Heroes,Night before the end,2444
 Show Champion,2024-10-23,4,KISS OF LIFE,Get Loud,1672
 Show Champion,2024-10-23,5,Billlie,remembrance candy,1286
+Show Champion,2024-10-30,1,aespa,Whiplash,6243
 Show Champion,2024-10-30,2,JENNIE,Mantra,3775
 Show Champion,2024-10-30,3,SEVENTEEN,"LOVE, MONEY, FAME",3242
 Show Champion,2024-10-30,4,ILLIT,Cherish (My Love),2167
 Show Champion,2024-10-30,5,tripleS,Hit the Floor,2027
+Show Champion,2024-11-06,1,THE BOYZ,TRIGGER,4878
 Show Champion,2024-11-06,2,JENNIE,Mantra,4590
 Show Champion,2024-11-06,3,aespa,Whiplash,4013
 Show Champion,2024-11-06,4,ILLIT,Cherish (My Love),2186
 Show Champion,2024-11-06,5,tripleS,Hit the Floor,1805
+Show Champion,2024-11-13,1,TOMORROW X TOGETHER,Over The Moon,4992
 Show Champion,2024-11-13,2,aespa,Whiplash,3779
 Show Champion,2024-11-13,3,Kep1er,TIPI-TAP,2623
 Show Champion,2024-11-13,4,EPEX,UNIVERSE,1954
 Show Champion,2024-11-13,5,BABYMONSTER,DRIP,1944
+Show Champion,2024-11-20,1,NCT DREAM,When I'm With You,7169
 Show Champion,2024-11-20,2,ENHYPEN,No Doubt,5218
 Show Champion,2024-11-20,3,BABYMONSTER,DRIP,4510
 Show Champion,2024-11-20,4,ATEEZ,Ice On My Teeth,3207
 Show Champion,2024-11-20,5,TOMORROW X TOGETHER,Over The Moon,2120
+Show Champion,2024-12-04,1,WayV,FREQUENCY,4859
 Show Champion,2024-12-04,2,TWS,Last Festival,3985
-Show Champion,2024-12-04,3,Hwang Kagam,I'm Firefly,3903
+Show Champion,2024-12-04,3,Hwang Karam,I'm Firefly,3903
 Show Champion,2024-12-04,4,IRENE,Like A Flower,2140
 Show Champion,2024-12-04,5,izna,IZNA,1995
+Show Champion,2025-02-12,1,PLAVE,Dash,6852
 Show Champion,2025-02-12,2,IVE,ATTITUDE,6479
 Show Champion,2025-02-12,3,CIX,THUNDER,2393
 Show Champion,2025-02-12,4,RESCENE,Glow Up,2392
 Show Champion,2025-02-12,5,KickFlip,Mama Said,2040
+Show Champion,2025-03-05,1,ZEROBASEONE,BLUE,6917
 Show Champion,2025-03-05,2,G-Dragon,TOO BAD (feat. Anderson Paak),5136
 Show Champion,2025-03-05,3,Hearts2Hearts,The Chase,2371
 Show Champion,2025-03-05,4,ALL(H)OURS,GIMME GIMME,1646
 Show Champion,2025-03-05,5,NouerA,N.I.N (New is Now),1177
+Show Champion,2025-03-12,1,G-Dragon,TOO BAD (feat. Anderson Paak),4892
 Show Champion,2025-03-12,2,JENNIE,like JENNIE,3187
 Show Champion,2025-03-12,3,Infinite,Dangerous,2537
 Show Champion,2025-03-12,4,8TURN,LEGGO,2185
 Show Champion,2025-03-12,5,Hearts2Hearts,The Chase,1992
+Show Champion,2025-03-19,1,TREASURE,YELLOW,4259
 Show Champion,2025-03-19,2,G-Dragon,TOO BAD (feat. Anderson Paak),3870
 Show Champion,2025-03-19,3,JENNIE,like JENNIE,3705
 Show Champion,2025-03-19,4,HOSHI X WOOZI,96ers,2941
 Show Champion,2025-03-19,5,LE SSERAFIM,HOT,2795
+Show Champion,2025-03-26,1,NMIXX,KNOW ABOUT ME,6865
 Show Champion,2025-03-26,2,THE BOYZ,VVV,5118
 Show Champion,2025-03-26,3,JENNIE,like JENNIE,3931
 Show Champion,2025-03-26,4,LE SSERAFIM,HOT,2064
 Show Champion,2025-03-26,5,TREASURE,YELLOW,1594
+Show Champion,2025-04-02,1,JENNIE,like JENNIE,4543
 Show Champion,2025-04-02,2,TEN,STUNNER,4420
 Show Champion,2025-04-02,3,KiiiKiii,I DO ME,3576
 Show Champion,2025-04-02,4,THE NEW SIX,For Real!?,2948
 Show Champion,2025-04-02,5,LE SSERAFIM,HOT,2564
+Show Champion,2025-04-09,1,NiziU,LOVE LINE,4823
 Show Champion,2025-04-09,2,CLOSE YOUR EYES,All My Poetry,4709
 Show Champion,2025-04-09,3,LE SSERAFIM,HOT,3834
 Show Champion,2025-04-09,4,KiiiKiii,I DO ME,3234
 Show Champion,2025-04-09,5,xikers,BREATHE,2803
+Show! Music Core,2022-01-08,1,IVE,ELEVEN,6408
+Show! Music Core,2022-01-15,1,IVE,ELEVEN,6532
+Show! Music Core,2022-01-22,1,IVE,ELEVEN,6600
+Show! Music Core,2022-02-26,1,Taeyeon,INVU,7277
+Show! Music Core,2022-03-05,1,Taeyeon,INVU,6379
+Show! Music Core,2022-03-12,1,Taeyeon,INVU,7180
+Show! Music Core,2022-03-19,1,Taeyeon,INVU,7287
+Show! Music Core,2022-03-26,1,(G)I-DLE,TOMBOY,7588
+Show! Music Core,2022-04-09,1,NCT DREAM,Glitch Mode,9300
+Show! Music Core,2022-04-23,1,BIGBANG,Still Life,7165
+Show! Music Core,2022-04-30,1,BIGBANG,Still Life,7883
+Show! Music Core,2022-05-07,1,BIGBANG,Still Life,6551
+Show! Music Core,2022-05-14,1,Lim Young-woong,If We Ever Meet Again,7885
+Show! Music Core,2022-05-21,1,PSY,That That,6586
+Show! Music Core,2022-06-04,1,Kang Daniel,Upside Down,7820
+Show! Music Core,2022-06-11,1,NCT DREAM,Beatbox,9800
+Show! Music Core,2022-06-25,1,BTS,Yet to Come,7415
+Show! Music Core,2022-07-02,1,Lim Young-woong,If We Ever Meet Again,6678
+Show! Music Core,2022-07-09,1,fromis_9,Stay That Way,8242
+Show! Music Core,2022-07-16,1,Nayeon,POP!,7022
+Show! Music Core,2022-07-23,1,WSG Wannabe (GayaG),At The Moment,6153
+Show! Music Core,2022-08-06,1,WSG Wannabe (GayaG),At The Moment,6378
+Show! Music Core,2022-08-20,1,NewJeans,Attention,7495
+Show! Music Core,2022-08-27,1,THE BOYZ,Whisper,6197
+Show! Music Core,2022-09-03,1,IVE,After LIKE,9191
+Show! Music Core,2022-09-17,1,IVE,After LIKE,7807
+Show! Music Core,2022-09-24,1,IVE,After LIKE,6935
+Show! Music Core,2022-10-01,1,NCT 127,2 Baddies,6638
+Show! Music Core,2022-10-08,1,BLACKPINK,Shut Down,7472
+Show! Music Core,2022-10-22,1,IVE,After LIKE,6672
+Show! Music Core,2022-10-29,1,(G)I-DLE,Nxde,9081
+Show! Music Core,2022-11-12,1,(G)I-DLE,Nxde,7684
+Show! Music Core,2022-11-19,1,(G)I-DLE,Nxde,6191
+Show! Music Core,2022-11-26,1,Lim Young-woong,London Boy,7060
+Show! Music Core,2022-12-03,1,LE SSERAFIM,ANTIFRAGILE,6384
+Show! Music Core,2022-12-10,1,LE SSERAFIM,ANTIFRAGILE,6017
+Show! Music Core,2022-12-17,1,LE SSERAFIM,ANTIFRAGILE,6396
+Show! Music Core,2023-01-07,1,NewJeans,Ditto,5843
+Show! Music Core,2023-01-14,1,NewJeans,Ditto,7002
+Show! Music Core,2023-01-28,1,NewJeans,Ditto,6758
+Show! Music Core,2023-02-04,1,NewJeans,Ditto,5690
+Show! Music Core,2023-02-11,1,NCT 127,Ay-Yo,8979
+Show! Music Core,2023-02-18,1,BSS,Fighting,7474
+Show! Music Core,2023-02-25,1,BSS,Fighting,5809
+Show! Music Core,2023-03-04,1,THE BOYZ,Roar,9401
+Show! Music Core,2023-03-11,1,STAYC,Teddy Bear,7514
+Show! Music Core,2023-03-18,1,ONEW,O (Circle),6590
+Show! Music Core,2023-03-25,1,Kai,Rover,5952
+Show! Music Core,2023-04-08,1,IVE,Kitsch,7654
+Show! Music Core,2023-04-15,1,Jisoo,Flower,7521
+Show! Music Core,2023-04-22,1,IVE,I Am,9668
+Show! Music Core,2023-04-29,1,NCT DoJaeJung,Perfume,6600
+Show! Music Core,2023-05-06,1,SEVENTEEN,Super,7805
+Show! Music Core,2023-05-13,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),7172
+Show! Music Core,2023-05-20,1,aespa,Spicy,7511
 Show! Music Core,2023-05-20,2,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),5887
+Show! Music Core,2023-05-27,1,(G)I-DLE,Queencard,7757
+Show! Music Core,2023-06-03,1,(G)I-DLE,Queencard,8133
 Show! Music Core,2023-06-03,2,IVE,I Am,6344
 Show! Music Core,2023-06-03,3,aespa,Spicy,6064
+Show! Music Core,2023-06-10,1,(G)I-DLE,Queencard,6460
 Show! Music Core,2023-06-10,2,STRAY KIDS,S-Class,5808
 Show! Music Core,2023-06-10,3,IVE,I Am,5612
+Show! Music Core,2023-06-17,1,Lim Young-woong,Grains of Sand,6519
 Show! Music Core,2023-06-17,2,STRAY KIDS,S-Class,5153
 Show! Music Core,2023-06-17,3,(G)I-DLE,Queencard,4891
+Show! Music Core,2023-06-24,1,(G)I-DLE,Queencard,6369
 Show! Music Core,2023-06-24,2,ATEEZ,Bouncy (K-Hot Chilli Peppers),5643
 Show! Music Core,2023-06-24,3,aespa,Spicy,4499
+Show! Music Core,2023-07-01,1,(G)I-DLE,Queencard,7504
 Show! Music Core,2023-07-01,2,aespa,Spicy,5015
 Show! Music Core,2023-07-01,3,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),4534
+Show! Music Core,2023-07-08,1,SHINee,HARD,9196
 Show! Music Core,2023-07-08,2,aespa,Spicy,5408
 Show! Music Core,2023-07-08,3,Lim Young-woong,Grains of Sand,5015
+Show! Music Core,2023-07-15,1,Lim Young-woong,Grains of Sand,6691
 Show! Music Core,2023-07-15,2,NewJeans,Super Shy,4313
 Show! Music Core,2023-07-15,3,SHINee,HARD,4288
+Show! Music Core,2023-07-22,1,NewJeans,Super Shy,6078
 Show! Music Core,2023-07-22,2,EXO,Cream Soda,5767
 Show! Music Core,2023-07-22,3,Jung Kook,Seven (feat. Latto),5222
+Show! Music Core,2023-07-29,1,NCT DREAM,ISTJ,9420
 Show! Music Core,2023-07-29,2,NewJeans,Super Shy,5985
 Show! Music Core,2023-07-29,3,Jung Kook,Seven (feat. Latto),5840
+Show! Music Core,2023-08-05,1,Jung Kook,Seven (feat. Latto),6689
 Show! Music Core,2023-08-05,2,NewJeans,Super Shy,5948
 Show! Music Core,2023-08-05,3,Oh My Girl,Summer Comes,3273
+Show! Music Core,2023-08-26,1,Jung Kook,Seven (feat. Latto),6832
 Show! Music Core,2023-08-26,2,NewJeans,Super Shy,5848
 Show! Music Core,2023-08-26,3,STAYC,Bubble,3421
+Show! Music Core,2023-09-02,1,Jung Kook,Seven (feat. Latto),6671
 Show! Music Core,2023-09-02,2,NewJeans,Super Shy,5653
 Show! Music Core,2023-09-02,3,SOMI,Fast Forward,3432
+Show! Music Core,2023-09-09,1,Jung Kook,Seven (feat. Latto),7026
 Show! Music Core,2023-09-09,2,NewJeans,ETA,5347
 Show! Music Core,2023-09-09,3,AKMU,Love Lee,4543
+Show! Music Core,2023-09-16,1,AKMU,Love Lee,6315
 Show! Music Core,2023-09-16,2,NewJeans,ETA,5652
 Show! Music Core,2023-09-16,3,SOMI,Fast Forward,3978
+Show! Music Core,2023-09-23,1,AKMU,Love Lee,5637
 Show! Music Core,2023-09-23,2,KEY,Good & Great,4893
 Show! Music Core,2023-09-23,3,SOMI,Fast Forward,3330
+Show! Music Core,2023-10-14,1,NCT 127,Fact Check,8804
 Show! Music Core,2023-10-14,2,AKMU,Love Lee,4913
 Show! Music Core,2023-10-14,3,Jung Kook,3D,4125
+Show! Music Core,2023-10-21,1,Lim Young-woong,Do or Die,7246
 Show! Music Core,2023-10-21,2,AKMU,Love Lee,3519
 Show! Music Core,2023-10-21,3,JENNIE,You & Me,3482
+Show! Music Core,2023-10-28,1,Lim Young-woong,Do or Die,6798
 Show! Music Core,2023-10-28,2,IVE,Baddie,6027
 Show! Music Core,2023-10-28,3,JENNIE,You & Me,5982
+Show! Music Core,2023-11-04,1,SEVENTEEN,God of Music,9096
 Show! Music Core,2023-11-04,2,IVE,Baddie,4123
 Show! Music Core,2023-11-04,3,JENNIE,You & Me,3340
+Show! Music Core,2023-11-11,1,TAEMIN,Guilty,6420
 Show! Music Core,2023-11-11,2,Jung Kook,Standing Next To You,5884
 Show! Music Core,2023-11-11,3,IVE,Baddie,5815
+Show! Music Core,2023-11-18,1,STRAY KIDS,LA LA LA LA,6901
 Show! Music Core,2023-11-18,2,IVE,Baddie,5874
 Show! Music Core,2023-11-18,3,Jung Kook,Standing Next To You,5264
+Show! Music Core,2023-11-25,1,Red Velvet,Chill Kill,7137
 Show! Music Core,2023-11-25,2,aespa,Drama,6891
 Show! Music Core,2023-11-25,3,IVE,Baddie,5823
+Show! Music Core,2023-12-02,1,THE BOYZ,Watch It,7129
 Show! Music Core,2023-12-02,2,LE SSERAFIM,Perfect Night,6048
 Show! Music Core,2023-12-02,3,aespa,Drama,5318
+Show! Music Core,2023-12-09,1,LE SSERAFIM,Perfect Night,6034
 Show! Music Core,2023-12-09,2,ATEEZ,Crazy Form,5642
 Show! Music Core,2023-12-09,3,Taeyeon,To. X,5296
+Show! Music Core,2023-12-16,1,LE SSERAFIM,Perfect Night,6863
 Show! Music Core,2023-12-16,2,aespa,Drama,6119
 Show! Music Core,2023-12-16,3,Taeyeon,To. X,5568
+Show! Music Core,2024-01-27,1,Taeyeon,To. X,6186
 Show! Music Core,2024-01-27,2,NMIXX,DASH,5622
 Show! Music Core,2024-01-27,3,Lim Jae-hyun,Rhapsody Of Sadness,5039
+Show! Music Core,2024-02-03,1,IU,Love wins all,7290
 Show! Music Core,2024-02-03,2,RIIZE,Love 119,5187
 Show! Music Core,2024-02-03,3,Lim Jae-hyun,Rhapsody Of Sadness,3638
+Show! Music Core,2024-02-17,1,IU,Love wins all,6428
 Show! Music Core,2024-02-17,2,(G)I-DLE,Super Lady,4974
 Show! Music Core,2024-02-17,3,RIIZE,Love 119,4718
+Show! Music Core,2024-02-24,1,IU,Love wins all,6382
 Show! Music Core,2024-02-24,2,TWS,plot twist,5991
 Show! Music Core,2024-02-24,3,RIIZE,Love 119,4564
+Show! Music Core,2024-03-02,1,LE SSERAFIM,EASY,6859
 Show! Music Core,2024-03-02,2,BIBI,Bam Yang Gang,5915
 Show! Music Core,2024-03-02,3,TWS,plot twist,4854
+Show! Music Core,2024-03-09,1,PLAVE,WAY 4 LUV,6271
 Show! Music Core,2024-03-09,2,BIBI,Bam Yang Gang,5834
 Show! Music Core,2024-03-09,3,LE SSERAFIM,EASY,5410
+Show! Music Core,2024-03-16,1,BIBI,Bam Yang Gang,6159
 Show! Music Core,2024-03-16,2,LE SSERAFIM,EASY,5544
 Show! Music Core,2024-03-16,3,TWS,plot twist,5003
+Show! Music Core,2024-03-30,1,THE BOYZ,Nectar,5962
 Show! Music Core,2024-03-30,2,BIBI,Bam Yang Gang,5456
 Show! Music Core,2024-03-30,3,LE SSERAFIM,EASY,4212
+Show! Music Core,2024-04-06,1,NCT DREAM,Smoothie,8788
 Show! Music Core,2024-04-06,2,BIBI,Bam Yang Gang,5010
 Show! Music Core,2024-04-06,3,ILLIT,Magnetic,4902
+Show! Music Core,2024-04-13,1,ILLIT,Magnetic,6307
 Show! Music Core,2024-04-13,2,TOMORROW X TOGETHER,Deja Vu,5653
 Show! Music Core,2024-04-13,3,BIBI,Bam Yang Gang,4537
+Show! Music Core,2024-04-20,1,ILLIT,Magnetic,6503
 Show! Music Core,2024-04-20,2,ONF,Bye My Monster,4092
 Show! Music Core,2024-04-20,3,TOMORROW X TOGETHER,Deja Vu,2851
+Show! Music Core,2024-04-27,1,ILLIT,Magnetic,6067
 Show! Music Core,2024-04-27,2,BOYNEXTDOOR,"Earth, Wind & Fire",5154
 Show! Music Core,2024-04-27,3,BABYMONSTER,Sheesh,3121
+Show! Music Core,2024-05-04,1,Lee Chan-won,A Travel to the Sky,7760
 Show! Music Core,2024-05-04,2,Doyoung,Little Light,7514
 Show! Music Core,2024-05-04,3,QWER,T.B.H,5790
+Show! Music Core,2024-05-11,1,SEVENTEEN,MAESTRO,9278
 Show! Music Core,2024-05-11,2,IVE,HEYA,5923
 Show! Music Core,2024-05-11,3,Zico,SPOT! (feat. JENNIE),5050
+Show! Music Core,2024-05-18,1,Lim Young-woong,Warmth,6825
 Show! Music Core,2024-05-18,2,Zico,SPOT! (feat. JENNIE),5404
 Show! Music Core,2024-05-18,3,IVE,HEYA,4873
+Show! Music Core,2024-05-25,1,aespa,Supernova,7167
 Show! Music Core,2024-05-25,2,IVE,HEYA,6220
 Show! Music Core,2024-05-25,3,Zico,SPOT! (feat. JENNIE),5826
+Show! Music Core,2024-06-01,1,aespa,Supernova,8200
 Show! Music Core,2024-06-01,2,NewJeans,How Sweet,4339
 Show! Music Core,2024-06-01,3,Zico,SPOT! (feat. JENNIE),4208
+Show! Music Core,2024-06-08,1,NewJeans,How Sweet,6837
 Show! Music Core,2024-06-08,2,aespa,Armageddon,6713
 Show! Music Core,2024-06-08,3,IVE,HEYA,3997
+Show! Music Core,2024-06-15,1,NewJeans,How Sweet,6872
 Show! Music Core,2024-06-15,2,aespa,Armageddon,6476
 Show! Music Core,2024-06-15,3,IVE,HEYA,3928
+Show! Music Core,2024-06-22,1,NewJeans,How Sweet,7125
 Show! Music Core,2024-06-22,2,aespa,Armageddon,5678
 Show! Music Core,2024-06-22,3,IVE,HEYA,4093
+Show! Music Core,2024-07-06,1,Lee Young-Ji,Small girl (ft. D.O.),6286
 Show! Music Core,2024-07-06,2,Red Velvet,Cosmic,5203
 Show! Music Core,2024-07-06,3,TWS,"If I'm S, Can You Be My N?",4558
+Show! Music Core,2024-07-13,1,Lee Young-Ji,Small girl (ft. D.O.),5821
 Show! Music Core,2024-07-13,2,aespa,Armageddon,4168
 Show! Music Core,2024-07-13,3,RIIZE,Boom Boom Bass,4048
+Show! Music Core,2024-07-20,1,Lee Young-Ji,Small girl (ft. D.O.),5723
 Show! Music Core,2024-07-20,2,ENHYPEN,XO (Only If You Say Yes),5285
 Show! Music Core,2024-07-20,3,(G)I-DLE,Klaxon,5099
+Show! Music Core,2024-08-10,1,NCT 127,Walk,7089
 Show! Music Core,2024-08-10,2,STRAY KIDS,Chk Chk Boom,5153
 Show! Music Core,2024-08-10,3,(G)I-DLE,Klaxon,4474
+Show! Music Core,2024-08-24,1,fromis_9,Supersonic,8757
 Show! Music Core,2024-08-24,2,(G)I-DLE,Klaxon,4123
 Show! Music Core,2024-08-24,3,KISS OF LIFE,Sticky,3965
+Show! Music Core,2024-08-31,1,PLAVE,Pump Up The Volume!,7576
 Show! Music Core,2024-08-31,2,TAEMIN,Sexy In The Air,5667
 Show! Music Core,2024-08-31,3,NMIXX,See that?,4637
+Show! Music Core,2024-09-07,1,JAEHYUN,Smoke,6806
 Show! Music Core,2024-09-07,2,ZEROBASEONE,GOOD SO BAD,5988
 Show! Music Core,2024-09-07,3,(G)I-DLE,Klaxon,5213
+Show! Music Core,2024-09-14,1,DAY6,Melt Down,7093
 Show! Music Core,2024-09-14,2,ONEW,beat drum,6283
 Show! Music Core,2024-09-14,3,LE SSERAFIM,CRAZY,3767
+Show! Music Core,2024-09-21,1,DAY6,Melt Down,6634
 Show! Music Core,2024-09-21,2,BOYNEXTDOOR,Nice Guy,6207
 Show! Music Core,2024-09-21,3,LE SSERAFIM,CRAZY,3533
+Show! Music Core,2024-09-28,1,DAY6,Melt Down,7100
 Show! Music Core,2024-09-28,2,fromis_9,Supersonic,4617
 Show! Music Core,2024-09-28,3,NMIXX,See that?,4305
+Show! Music Core,2024-10-05,1,KEY,Pleasure Shop,8344
 Show! Music Core,2024-10-05,2,Kang Daniel,Electric Shock,4723
 Show! Music Core,2024-10-05,3,QWER,My Name Is Malgeum,4086
+Show! Music Core,2024-10-12,1,QWER,My Name Is Malgeum,7671
 Show! Music Core,2024-10-12,2,fromis_9,Supersonic,6333
 Show! Music Core,2024-10-12,3,YENA,NEMONEMO,3768
+Show! Music Core,2024-10-19,1,aespa,Up (KARINA),6698
 Show! Music Core,2024-10-19,2,QWER,My Name Is Malgeum,6439
 Show! Music Core,2024-10-19,3,AB6IX,NVKED,3562
+Show! Music Core,2024-10-26,1,SEVENTEEN,"LOVE, MONEY, FAME",9153
 Show! Music Core,2024-10-26,2,aespa,Up (KARINA),4873
-Show! Music Core,2024-10-26,3,ROSÉ,APT (with Bruno Mars),3928
+Show! Music Core,2024-10-26,3,ROSE,APT (with Bruno Mars),3928
+Show! Music Core,2024-11-02,1,ROSE,APT (with Bruno Mars),7010
 Show! Music Core,2024-11-02,2,aespa,Whiplash,5713
 Show! Music Core,2024-11-02,3,ILLIT,Cherish (My Love),2596
+Show! Music Core,2024-11-09,1,ROSE,APT (with Bruno Mars),6707
 Show! Music Core,2024-11-09,2,THE BOYZ,TRIGGER,4365
 Show! Music Core,2024-11-09,3,aespa,Whiplash,3653
+Show! Music Core,2024-11-16,1,ROSE,APT (with Bruno Mars),7487
 Show! Music Core,2024-11-16,2,aespa,Whiplash,5378
 Show! Music Core,2024-11-16,3,G-Dragon,POWER,4226
+Show! Music Core,2024-11-23,1,NCT DREAM,When I'm With You,6705
 Show! Music Core,2024-11-23,2,aespa,Whiplash,6452
 Show! Music Core,2024-11-23,3,G-Dragon,POWER,4871
+Show! Music Core,2024-11-30,1,aespa,Whiplash,6955
 Show! Music Core,2024-11-30,2,G-Dragon,HOME SWEET HOME,4226
 Show! Music Core,2024-11-30,3,Taeyeon,Letter To Myself,3484
+Show! Music Core,2024-12-21,1,G-Dragon,HOME SWEET HOME,6925
 Show! Music Core,2024-12-21,2,aespa,Whiplash,5488
-Show! Music Core,2024-12-21,3,ROSÉ,toxic till the end,4036
-Show! Music Core,2025-01-11,2,ROSÉ,toxic till the end,5137
+Show! Music Core,2024-12-21,3,ROSE,toxic till the end,4036
+Show! Music Core,2025-01-11,1,G-Dragon,HOME SWEET HOME,6918
+Show! Music Core,2025-01-11,2,ROSE,toxic till the end,5137
 Show! Music Core,2025-01-11,3,JAESSBEE,Every Moment With You,4054
+Show! Music Core,2025-01-18,1,G-Dragon,HOME SWEET HOME,6581
 Show! Music Core,2025-01-18,2,BSS,CBZ (Prime time),5795
-Show! Music Core,2025-01-18,3,BOYNEXTDOOR,"If I Say, I LOVE OU",5777
-Show! Music Core,2025-01-25,2,BOYNEXTDOOR,"If I Say, I LOVE OU",5815
-Show! Music Core,2025-01-25,3,ROSÉ,toxic till the end,5646
-Show! Music Core,2025-02-08,2,BOYNEXTDOOR,"If I Say, I LOVE OU",5340
+Show! Music Core,2025-01-18,3,BOYNEXTDOOR,"If I Say, I LOVE YOU",5777
+Show! Music Core,2025-01-25,1,IVE,REBEL HEART,8341
+Show! Music Core,2025-01-25,2,BOYNEXTDOOR,"If I Say, I LOVE YOU",5815
+Show! Music Core,2025-01-25,3,ROSE,toxic till the end,5646
+Show! Music Core,2025-02-08,1,IVE,REBEL HEART,7347
+Show! Music Core,2025-02-08,2,BOYNEXTDOOR,"If I Say, I LOVE YOU",5340
 Show! Music Core,2025-02-08,3,MINNIE,HER,2541
+Show! Music Core,2025-02-15,1,PLAVE,Dash,9571
 Show! Music Core,2025-02-15,2,IVE,REBEL HEART,6988
-Show! Music Core,2025-02-15,3,BOYNEXTDOOR,"If I Say, I LOVE OU",3972
+Show! Music Core,2025-02-15,3,BOYNEXTDOOR,"If I Say, I LOVE YOU",3972
+Show! Music Core,2025-02-22,1,IVE,REBEL HEART,5937
 Show! Music Core,2025-02-22,2,PLAVE,Dash,4945
-Show! Music Core,2025-02-22,3,BOYNEXTDOOR,"If I Say, I LOVE OU",4154
+Show! Music Core,2025-02-22,3,BOYNEXTDOOR,"If I Say, I LOVE YOU",4154
+Show! Music Core,2025-03-01,1,IVE,ATTITUDE,6169
 Show! Music Core,2025-03-01,2,ONF,The Stranger,6082
-Show! Music Core,2025-03-01,3,BOYNEXTDOOR,"If I Say, I LOVE OU",5836
+Show! Music Core,2025-03-01,3,BOYNEXTDOOR,"If I Say, I LOVE YOU",5836
+Show! Music Core,2025-03-08,1,G-Dragon,TOO BAD (feat. Anderson Paak),7465
 Show! Music Core,2025-03-08,2,ZEROBASEONE,BLUE,4743
 Show! Music Core,2025-03-08,3,IVE,ATTITUDE,3099
+Show! Music Core,2025-03-15,1,G-Dragon,TOO BAD (feat. Anderson Paak),7864
 Show! Music Core,2025-03-15,2,Infinite,Dangerous,4474
 Show! Music Core,2025-03-15,3,IVE,ATTITUDE,3035
+Show! Music Core,2025-03-29,1,G-Dragon,TOO BAD (feat. Anderson Paak),6893
 Show! Music Core,2025-03-29,2,THE BOYZ,VVV,5141
 Show! Music Core,2025-03-29,3,JENNIE,like JENNIE,4335
+Show! Music Core,2025-04-05,1,KiiiKiii,I DO ME,5936
 Show! Music Core,2025-04-05,2,JENNIE,like JENNIE,5650
 Show! Music Core,2025-04-05,3,LE SSERAFIM,HOT,5367
+The Show,2022-01-25,1,fromis_9,DM,8353
+The Show,2022-02-22,1,Apink,Dilemma,9700
+The Show,2022-03-01,1,STAYC,RUN2U,8261
+The Show,2022-03-08,1,STAYC,RUN2U,7669
+The Show,2022-03-22,1,(G)I-DLE,TOMBOY,7970
+The Show,2022-03-29,1,Highlight,DAYDREAM,8650
+The Show,2022-04-05,1,Oh My Girl,Real Love,8881
+The Show,2022-04-12,1,IVE,LOVE DIVE,9400
+The Show,2022-04-19,1,IVE,LOVE DIVE,8184
 The Show,2022-04-19,3,Dreamcatcher,MAISON,3559
 The Show,2022-04-19,2,DKZ,Cupid,3560
+The Show,2022-04-26,1,Dreamcatcher,MAISON,7914
 The Show,2022-04-26,2,DKZ,Cupid,7900
 The Show,2022-04-26,3,EPEX,Anthem of Teen Spirit,2948
+The Show,2022-05-03,1,Miyeon,Drive,6944
+The Show,2022-05-10,1,LE SSERAFIM,FEARLESS,8456
+The Show,2022-05-17,1,LE SSERAFIM,FEARLESS,9670
+The Show,2022-05-24,1,ASTRO,Candy Sugar Pop,8970
+The Show,2022-06-07,1,Jo Yu-ri,Love Shhh!,6489
+The Show,2022-06-28,1,LOONA,Flip That,8200
+The Show,2022-07-05,1,fromis_9,Stay That Way,8270
+The Show,2022-07-12,1,ENHYPEN,Future Perfect (Pass the Mic),7200
+The Show,2022-07-19,1,Chung Ha,Sparkling,6984
+The Show,2022-07-26,1,STAYC,BEAUTIFUL MONSTER,8369
+The Show,2022-08-02,1,ATEEZ,Guerrilla,7200
+The Show,2022-08-09,1,ATEEZ,Guerrilla,8640
+The Show,2022-08-30,1,IVE,After LIKE,8734
+The Show,2022-09-06,1,IVE,After LIKE,7403
+The Show,2022-09-13,1,ONEUS,Same Scent,7950
+The Show,2022-09-20,1,ONEUS,Same Scent,9370
+The Show,2022-10-04,1,Cravity,Party Rock,9110
+The Show,2022-10-18,1,DKZ,Uh-Heung,8530
+The Show,2022-10-25,1,(G)I-DLE,Nxde,8551
+The Show,2022-11-15,1,Highlight,Alone,9170
+The Show,2022-11-22,1,YooA,Selfish,7227
+The Show,2023-02-21,1,STAYC,Teddy Bear,9360
+The Show,2023-02-28,1,Lee Chan-won,Wish Lanterns,7310
+The Show,2023-03-14,1,Cravity,Groovy,8550
+The Show,2023-03-28,1,Kim Jae-hwan,Spring Breeze,8830
+The Show,2023-04-04,1,Billlie,EUNOIA,9260
+The Show,2023-04-18,1,IVE,I Am,7454
+The Show,2023-04-25,1,Lee Gi-kwang,Predator,8021
+The Show,2023-05-09,1,LE SSERAFIM,UNFORGIVEN (Feat. Nile Rodgers),9340
+The Show,2023-05-16,1,ONEUS,Erase Me,6690
+The Show,2023-05-23,1,(G)I-DLE,Queencard,8157
+The Show,2023-05-30,1,Dreamcatcher,BONVOYAGE,9030
 The Show,2023-05-30,2,ATBO,Next To Me,3378
 The Show,2023-05-30,3,KARD,ICKY,2925
+The Show,2023-06-06,1,AB6IX,LOSER,8300
 The Show,2023-06-06,2,CIX,"Save me, Kill me",0
 The Show,2023-06-06,3,KARD,ICKY,0
+The Show,2023-06-13,1,fromis_9,#menow,8700
 The Show,2023-06-13,2,P1Harmony,JUMP,4665
 The Show,2023-06-13,3,THE NEW SIX,Kick It 4 Now,1424
+The Show,2023-06-20,1,ATEEZ,Bouncy (K-Hot Chilli Peppers),7220
 The Show,2023-06-20,2,fromis_9,#menow,6485
 The Show,2023-06-20,3,KUN8,Wild Heart,2377
+The Show,2023-06-27,1,ATEEZ,Bouncy (K-Hot Chilli Peppers),9590
 The Show,2023-06-27,2,Kim Jae-hwan,Lucky! (ft. Bobby),3070
 The Show,2023-06-27,3,LAPILLUS,Who's Next,1457
+The Show,2023-07-04,1,Han Seung-woo,Dive Into,7390
 The Show,2023-07-04,2,WEi,OVERDRIVE,5802
 The Show,2023-07-04,3,8TURN,EXCEL,2949
+The Show,2023-07-18,1,ZEROBASEONE,In Bloom,9350
 The Show,2023-07-18,2,Odd Eye Circle,Air Force One,2325
 The Show,2023-07-18,3,KISS OF LIFE,Shhh,1327
+The Show,2023-07-25,1,ZEROBASEONE,In Bloom,8480
 The Show,2023-07-25,2,MIRAE,JUMP!,3282
 The Show,2023-07-25,3,KISS OF LIFE,Shhh,1578
+The Show,2023-08-01,1,Oh My Girl,Summer Comes,9260
 The Show,2023-08-01,2,HORI7ON,SIX7EEN,3183
 The Show,2023-08-01,3,MIRAE,JUMP!,2288
+The Show,2023-08-08,1,Kwon Eun-bi,The Flash,6960
 The Show,2023-08-08,2,xikers,DO or DIE,5693
 The Show,2023-08-08,3,BBGIRLS,ONE MORE TIME,3852
+The Show,2023-08-15,1,Jo Yu-ri,TAXI,7173
 The Show,2023-08-15,2,Kwon Eun-bi,The Flash,7150
-The Show,2023-08-15,3,n.Ssign,Wormhole: New Track,3722
-The Show,2023-08-29,2,Lee Chan Won,Twist Go Go,6210
+The Show,2023-08-15,3,n.SSign,Wormhole: New Track,3722
+The Show,2023-08-29,1,STAYC,Bubble,7285
+The Show,2023-08-29,2,Lee Chan-won,Twist Go Go,6210
 The Show,2023-08-29,3,xikers,HOMEBOY,2932
+The Show,2023-09-05,1,H1-Key,SEOUL (Such A Beautiful City),6082
 The Show,2023-09-05,2,VANNER,PERFORMER,5850
 The Show,2023-09-05,3,TIOT,Unbeatable,3466
+The Show,2023-09-12,1,BOYNEXTDOOR,But Sometimes,9080
 The Show,2023-09-12,2,Lee Chae-yeon,LET'S DANCE,4804
 The Show,2023-09-12,3,Kim Sejeong,Top or Cliff,3609
+The Show,2023-09-19,1,Jaechan,Hello,7180
 The Show,2023-09-19,2,RIIZE,Get A Guitar,6420
 The Show,2023-09-19,3,Cravity,Ready Or Not,4769
+The Show,2024-02-20,1,TWS,plot twist,5876
 The Show,2024-02-20,2,TEN,Nightwalker,4753
 The Show,2024-02-20,3,P1Harmony,Killin' It,3775
+The Show,2024-03-05,1,Cravity,Love or Die,9330
 The Show,2024-03-05,2,A.C.E,My Girl,2929
 The Show,2024-03-05,3,TRI.BE,Diamond,2465
+The Show,2024-03-12,1,NCT WISH,WISH,7241
 The Show,2024-03-12,2,Cravity,Love or Die,7003
 The Show,2024-03-12,3,Kim Hee-Jae,What Should I do?,6640
+The Show,2024-03-19,1,Highlight,BODY,8810
 The Show,2024-03-19,2,TEMPEST,LIGHTHOUSE,3917
 The Show,2024-03-19,3,xikers,We Don't Stop,2507
+The Show,2024-04-02,1,ILLIT,Magnetic,6904
 The Show,2024-04-02,2,UNIS,SUPERWOMAN,3340
 The Show,2024-04-02,3,YOUNG POSSE,XXL,2446
+The Show,2024-04-09,1,ILLIT,Magnetic,8990
 The Show,2024-04-09,2,NOWADAYS,OoWee,4277
 The Show,2024-04-09,3,KISS OF LIFE,Midas Touch,3250
+The Show,2024-04-16,1,ONF,Bye My Monster,7490
 The Show,2024-04-16,2,KISS OF LIFE,Midas Touch,6036
 The Show,2024-04-16,3,EPEX,Youth2Youth,4189
+The Show,2024-04-23,1,BOYNEXTDOOR,"Earth, Wind & Fire",9200
 The Show,2024-04-23,2,ILLIT,Magnetic,4264
 The Show,2024-04-23,3,EPEX,Youth2Youth,1957
+The Show,2024-05-07,1,Solar,But I,7270
 The Show,2024-05-07,2,YOUNITE,GEEKIN,3761
 The Show,2024-05-07,3,82MAJOR,Choke,2950
+The Show,2024-05-14,1,tripleS,Girls Never Die,7200
 The Show,2024-05-14,2,Kim Jae-hwan,Amaid,5925
 The Show,2024-05-14,3,YOUNITE,GEEKIN,3394
+The Show,2024-05-21,1,ZEROBASEONE,Feel The POP,8750
 The Show,2024-05-21,2,tripleS,Girls Never Die,4713
 The Show,2024-05-21,3,ZEROBASEONE,SWEAT,3435
+The Show,2024-05-28,1,ZEROBASEONE,Feel The POP,7430
 The Show,2024-05-28,2,tripleS,Girls Never Die,5819
 The Show,2024-05-28,3,ONEUS,Now,2988
+The Show,2024-06-04,1,ATEEZ,WORK,9380
 The Show,2024-06-04,2,XG,WOKE UP,3355
 The Show,2024-06-04,3,JD1,ERROR 405,1859
+The Show,2024-06-11,1,WayV,Give me That,7270
 The Show,2024-06-11,2,Kep1er,Shooting Star,6527
 The Show,2024-06-11,3,TWS,hey!hey!,4998
+The Show,2024-06-25,1,RIIZE,Boom Boom Bass,9320
 The Show,2024-06-25,2,EVNNE,Badder Love,2812
 The Show,2024-06-25,3,Kwon Eun-bi,SABOTAGE,2323
+The Show,2024-07-02,1,TWS,"If I'm S, Can You Be My N?",9480
 The Show,2024-07-02,2,H1-Key,Let It Burn,3036
 The Show,2024-07-02,3,CHUU,Strawberry Rush,2982
+The Show,2024-07-09,1,KISS OF LIFE,Sticky,7900
 The Show,2024-07-09,2,NCT WISH,Songbird,5494
 The Show,2024-07-09,3,Lee Chae-yeon,Don't,2288
+The Show,2024-08-20,1,fromis_9,Supersonic,9210
 The Show,2024-08-20,2,UNIS,Curious,3031
 The Show,2024-08-20,3,LUN8,WHIP,1697
+The Show,2024-08-27,1,SF9,"Don't Worry, Be Happy",7190
 The Show,2024-08-27,2,YOUNG POSSE,ATE THAT,3926
 The Show,2024-08-27,3,DRIPPIN,Weekend,3128
+The Show,2024-09-03,1,ZEROBASEONE,GOOD SO BAD,9350
 The Show,2024-09-03,2,Oh My Girl,Classified,4735
 The Show,2024-09-03,3,YOUNG POSSE,ATE THAT,2569
+The Show,2024-09-24,1,P1Harmony,SAD SONG,7049
 The Show,2024-09-24,2,Lee Jegyu,Mironi,4582
 The Show,2024-09-24,3,xikers,Bittersweet,3990
+The Show,2024-10-29,1,KISS OF LIFE,Get Loud,6552
 The Show,2024-10-29,2,tripleS,Hit the Floor,6500
 The Show,2024-10-29,3,SAY MY NAME,WaveWay,2979
+The Show,2024-11-05,1,tripleS,Hit the Floor,6900
 The Show,2024-11-05,2,STAYC,GPT,5942
 The Show,2024-11-05,3,Kep1er,TIPI-TAP,2662
+The Show,2024-11-12,1,Kep1er,TIPI-TAP,7680
 The Show,2024-11-12,2,EPEX,UNIVERSE,7445
 The Show,2024-11-12,3,VIVIZ,Shhh!,5348
+The Show,2024-12-03,1,WayV,FREQUENCY,7920
 The Show,2024-12-03,2,izna,IZNA,5519
 The Show,2024-12-03,3,NOWADAYS,Let's get it,2814
+The Show,2025-03-04,1,ZEROBASEONE,BLUE,9570
 The Show,2025-03-04,2,Hearts2Hearts,The Chase,4651
 The Show,2025-03-04,3,ARrC,nu kidz,1541
+The Show,2025-03-11,1,Hearts2Hearts,The Chase,8500
 The Show,2025-03-11,2,GENBLUE,ACT LIKE THAT,3351
 The Show,2025-03-11,3,NouerA,N.I.N (New is Now),2674
+The Show,2025-03-25,1,STAYC,BEBE,7421
 The Show,2025-03-25,2,SAY MY NAME,ShaLala,5640
 The Show,2025-03-25,3,The Wind,Only One,2390
+The Show,2025-04-01,1,TEN,STUNNER,8600
 The Show,2025-04-01,2,STAYC,BEBE,6880
 The Show,2025-04-01,3,THE NEW SIX,For Real!?,2139
+The Show,2025-04-08,1,CLOSE YOUR EYES,All My Poetry,8605
 The Show,2025-04-08,2,TEMPEST,Unfreeze,6330
 The Show,2025-04-08,3,xikers,BREATHE,3245
