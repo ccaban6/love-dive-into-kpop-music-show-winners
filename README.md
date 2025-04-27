@@ -20,7 +20,8 @@ The file structure and order in which they should be explored can be explained b
 flowchart LR
     subgraph Recommended
     A(gather_nonwinning_tabular_data.ipynb) anim1@--> C(gather_audio_data.ipynb)
-    B(gather_winning_tabular_data.ipynb) anim2@--> C
+    B(gather_winning_tabular_data.ipynb) anim2@--> A
+    C anim3--> F(analysis_visualizations.ipynb) 
     end
 
     subgraph Optional
@@ -30,6 +31,7 @@ flowchart LR
 
     anim1@{ animation: slow }
     anim2@{ animation: slow }
+    anim3@{ animation: slow }
 
     click A href "https://github.com/ccaban6/love-dive-into-kpop-music-show-winners/blob/main/gather_nonwinning_tabular_data.ipynb" "Open this in a new tab" _blank
     
@@ -40,4 +42,6 @@ flowchart LR
     click D href "https://github.com/ccaban6/love-dive-into-kpop-music-show-winners/blob/main/download_audio.py" "Open this is a new tab" _blank
 
     click E href "https://github.com/ccaban6/love-dive-into-kpop-music-show-winners/blob/main/essentia_models.py" "Open this is a new tab" _blank
+
+    click F href "https://github.com/ccaban6/love-dive-into-kpop-music-show-winners/blob/main/analysis_visualizations.ipynb" "Open this is a new tab" _blank
 ```
