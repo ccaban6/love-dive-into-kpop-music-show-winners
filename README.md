@@ -21,7 +21,7 @@ flowchart LR
     subgraph Recommended
     A(gather_nonwinning_tabular_data.ipynb) anim1@--> C(gather_audio_data.ipynb)
     B(gather_winning_tabular_data.ipynb) anim2@--> A
-    C anim3--> F(analysis_visualizations.ipynb) 
+    C anim3@--> F(analysis_visualizations.ipynb) 
     end
 
     subgraph Optional
