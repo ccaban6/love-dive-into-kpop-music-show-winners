@@ -45,26 +45,28 @@ def build_clean_database():
     # Final clean dataset
     clean_df = pd.concat(all_dataframes, ignore_index=True)
     clean_df = preprocess_database(clean_df) 
-    clean_df.to_sql("all_awards", clean_conn, if_exists="replace", index=False)
     clean_df = apply_manual_updates_by_position(clean_df, "../data/manual_changes/manual_awards.xlsx")
-    
+    clean_df.to_sql("all_awards", clean_conn, if_exists="replace", index=False)
+
+    metadata_df = add_artist_metadata('../data/manual_changes/kpop_metadata.xlsx')
+    metadata_df.to_sql("artist_metadata", clean_conn, if_exists='replace', index=False)
+
     raw_conn.close()
     clean_conn.close()
     print("Clean database created at:", CLEAN_DB)
 
-def apply_manual_updates_by_position(df, sheet_path: str):
+def add_artist_metadata(sheet_path: str):
+    df = pd.read_excel(sheet_path, sheet_name=None)
+    metadata_df = df['artist_metadata_minimal']
+    return metadata_df
+
+def apply_manual_updates_by_position(db_df, sheet_path: str):
     df = pd.read_excel(sheet_path, sheet_name=None)
     df_old = df['old_rows']
     df_new = df['updated_rows']
     # Convert date columns to consistent format
     df_old['date'] = pd.to_datetime(df_old['date'])
     df_new['date'] = pd.to_datetime(df_new['date'])
-
-    # Connect to SQLite database
-    conn = sqlite3.connect(CLEAN_DB)
-    db_df = pd.read_sql("SELECT * FROM all_awards", conn)
-    
-    db_df['date'] = pd.to_datetime(db_df['date'])
 
     # Iterate through each old row and apply the corresponding update
     for i in range(len(df_old)):
@@ -88,9 +90,6 @@ def apply_manual_updates_by_position(df, sheet_path: str):
     # Remove duplicates after update
     db_df.drop_duplicates(inplace=True)
 
-    # Write updated dataframe back to the database
-    db_df.to_sql("all_awards", conn, if_exists="replace", index=False)
-    conn.close()
     print("Manual updates applied based on row order.")
     return db_df
 
