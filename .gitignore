@@ -1,0 +1,10 @@
+Music/*
+Text Outputs/*
+vscode.deb
+.*/
+.cache
+__pycache__
+data/audio/*
+Models/*
+Deprecated/*
+Old_Notebooks/*
