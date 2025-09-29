@@ -15,15 +15,13 @@ def create_genre_df(analysis_df):
     genre_df = analysis_df[['artist', 'song', 'audio_features__genre__top_1_class', 
                           'audio_features__genre__top_2_class', 'audio_features__genre__top_3_class', 
                           'is_winner']]
-    return genre_df.rename({
+    genre_df = genre_df.rename({
         'audio_features__genre__top_1_class': 'genre_1st',
         'audio_features__genre__top_2_class': 'genre_2nd',
         'audio_features__genre__top_3_class': 'genre_3rd'
     })
 
-def analyze_genre_combinations(genre_df):
-    """Analyze genre combinations and their win rates."""
-    genre_combo = genre_df.with_columns(
+    genre_df = genre_df.with_columns(
         pl.col('genre_1st').map_elements(parse_genre).alias('genre_1st_split'),
         pl.col('genre_2nd').map_elements(parse_genre).alias('genre_2nd_split')
     ).with_columns(
@@ -37,8 +35,39 @@ def analyze_genre_combinations(genre_df):
         .otherwise(pl.concat_str([pl.col('genre_2nd_subgenre'), pl.col('genre_1st_subgenre')], separator=' + '))
         .alias('sorted_combo')
     ).drop(['genre_1st_split', 'genre_2nd_split'])
-    
-    return (genre_combo.group_by('sorted_combo')
+
+    return  genre_df
+
+def create_temporal_genre(temporal, audio):
+    combo_dates = temporal.join(audio, left_on=["artist", "song"], right_on=["artist", "song_title"], how="inner").with_columns([
+        pl.when(pl.col("placement") == 1).then(1).otherwise(0).alias("is_winner")
+    ])
+
+    combo_dates = combo_dates[['date', 'artist', 'song', 'audio_features__genre__top_1_class', 'audio_features__genre__top_2_class', 'audio_features__genre__top_3_class', 'is_winner']]
+    combo_dates = combo_dates.rename({'audio_features__genre__top_1_class': 'genre_1st', 'audio_features__genre__top_2_class': 'genre_2nd', 'audio_features__genre__top_3_class': 'genre_3rd'})
+    combo_dates = combo_dates.with_columns(
+        pl.col('genre_1st').map_elements(parse_genre).alias('genre_1st_split'),
+        pl.col('genre_2nd').map_elements(parse_genre).alias('genre_2nd_split')
+        ).with_columns(
+            pl.col('genre_1st_split').list.get(0).alias('genre_1st_parent'),
+            pl.col('genre_1st_split').list.get(1).alias('genre_1st_subgenre'),
+            pl.col('genre_2nd_split').list.get(0).alias('genre_2nd_parent'),
+            pl.col('genre_2nd_split').list.get(1).alias('genre_2nd_subgenre'),
+            pl.col('date').str.to_date(format="%Y-%m-%d %H:%M:%S")
+        ).with_columns(
+            pl.when(pl.col('genre_1st_subgenre') < pl.col('genre_2nd_subgenre'))
+            .then(pl.concat_str([pl.col('genre_1st_subgenre'), pl.col('genre_2nd_subgenre')], separator=' + '))
+            .otherwise(pl.concat_str([pl.col('genre_2nd_subgenre'), pl.col('genre_1st_subgenre')], separator=' + '))
+            .alias('sorted_combo'),
+            pl.col('date').dt.year().alias('year')
+        ).drop(['genre_1st_split', 'genre_2nd_split'])
+
+    return combo_dates
+
+def analyze_genre_combinations(genre_df):
+    """Analyze genre combinations and their win rates."""
+
+    return (genre_df.group_by('sorted_combo')
             .agg([
                 pl.col('is_winner').sum().alias('wins'),
                 pl.col('is_winner').count().alias('total_appearances'),
@@ -124,3 +153,99 @@ def plot_genre_temporal_trends(temporal_combo, genre_timeline, min_entries=20):
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.tight_layout()
     plt.show()
+
+def plot_genre_win_rates_over_time(data, threshold=0.15, negative_only=False):
+    """
+    Plot genre win rates over time with enhanced visualization.
+
+    Args:
+        data: DataFrame containing genre win rates by year
+        threshold: Change threshold to highlight steep trends (default 0.15 or 15%)
+    """
+
+    # Ensure data is sorted by year
+    data = data.sort_values('year')
+    
+    # Calculate year-over-year changes
+    changes = data.groupby('sorted_combo')['win_rate'].diff()
+    
+    # Identify genres with significant changes
+    if not negative_only:
+        significant_genres = data[abs(changes) >= threshold]['sorted_combo'].unique()
+    else:
+        significant_genres = data[changes < -1 * threshold]['sorted_combo'].unique()
+
+    # Set up the plot with specific dimensions
+    plt.figure(figsize=(15, 8))
+    
+    # Use a visually distinct color palette
+    palette = sns.color_palette("deep", n_colors=len(significant_genres))
+    color_map = dict(zip(significant_genres, palette))
+    
+    # Get unique years for x-axis
+    years = sorted(data['year'].unique())
+    
+    # Plot all genres in light gray first
+    for genre in data['sorted_combo'].unique():
+        genre_data = data[data['sorted_combo'] == genre]
+        plt.plot(genre_data['year'], genre_data['win_rate'], 
+                color='lightgray', linewidth=1.5, alpha=0.6,
+                linestyle='--' if genre not in significant_genres else '-',
+                marker='o')
+    
+    # Plot significant genres with colors and annotations
+    for genre in significant_genres:
+        genre_data = data[data['sorted_combo'] == genre].copy()
+        genre_data = genre_data.sort_values('year')
+        
+        line = plt.plot(genre_data['year'], genre_data['win_rate'],
+                       label=genre, linewidth=2.5,
+                       color=color_map[genre],
+                       marker='o',
+                       markersize=6)
+        
+        # Add annotations for significant changes
+        for idx in range(len(genre_data) - 1):
+            current_rate = genre_data['win_rate'].iloc[idx]
+            next_rate = genre_data['win_rate'].iloc[idx + 1]
+            change = next_rate - current_rate
+            
+            if abs(change) >= threshold:
+                plt.annotate(f'{change:+.0%}',
+                           xy=(genre_data['year'].iloc[idx + 1], next_rate),
+                           xytext=(10, 10), 
+                           textcoords='offset points',
+                           fontsize=8,
+                           color=color_map[genre],
+                           bbox=dict(facecolor='white', 
+                                   edgecolor=color_map[genre],
+                                   alpha=0.7,
+                                   boxstyle='round,pad=0.5'))
+    
+    # Customize the plot
+    # plt.grid(True, alpha=0.3, linestyle='--')
+    plt.title('Genre Win Rates Over Time', 
+              pad=20, fontsize=14, loc='left')
+    plt.ylabel('Win Rate', fontsize=12)
+    plt.xticks(years, rotation=45)
+
+    
+    # Format y-axis as percentage
+    plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda y, _: '{:.0%}'.format(y)))
+    plt.ylim(-0.05, 1.05)  # Set y-axis limits with some padding
+    
+    # Adjust legend
+    plt.legend(bbox_to_anchor=(1, 1), 
+              loc='upper left',
+              title='Genres with Notable Changes',
+              fontsize=10,
+              title_fontsize=11,
+              frameon=False
+              )
+    
+    plt.gca().spines['top'].set_visible(False)
+    plt.gca().spines['right'].set_visible(False)
+    # Adjust layout to prevent label cutoff
+    plt.tight_layout()
+    
+    return plt.gca()

@@ -137,7 +137,7 @@ def plot_genre_distributions(genre_df, top_n=10, title="Primary", genre_col="gen
 
     plt.figure(figsize=(12, 6))
 
-    sns.countplot(data=filtered_df,
+    ax = sns.countplot(data=filtered_df,
                   y=genre_col,
                   hue='is_winner',
                   order=top_genres,
@@ -145,7 +145,7 @@ def plot_genre_distributions(genre_df, top_n=10, title="Primary", genre_col="gen
                   legend=False
                   )
     fig_text(
-        s=f'Distribution of {title} Genres: <Non-Winners> vs <Winners>',
+        s=f'{title}: <Non-Winners> vs <Winners>',
         x=0.4, y=.95,
         fontsize=16,
         color='black',
@@ -155,8 +155,14 @@ def plot_genre_distributions(genre_df, top_n=10, title="Primary", genre_col="gen
         ],
         ha='center'
     )
+
+    for genre in top_genres:
+        subset = genre_df.filter(genre_df['sorted_combo'] == genre)
+        total = subset['sorted_combo'].count()
+        y_pos = list(top_genres).index(genre)  
+        x_pos = subset['is_winner'].value_counts().max()['count'][0]
+        ax.text(x=x_pos + 1.5, y= y_pos, s=f"{subset['is_winner'].sum()/total:.2f}", ha='center', color='gray')
     
-    ax = plt.gca()
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
     ax.set(ylabel=None, xlabel=None)
