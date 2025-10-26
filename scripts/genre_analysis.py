@@ -2,6 +2,7 @@ import polars as pl
 import pandas as pd
 import numpy as np
 from visualization_utils import plt, sns
+from radar_factory import radar_factory
 
 def parse_genre(genre_string):
     """Parse genre string into parent and subgenre."""
@@ -249,3 +250,76 @@ def plot_genre_win_rates_over_time(data, threshold=0.15, negative_only=False):
     plt.tight_layout()
     
     return plt.gca()
+
+def plot_spider_plots(genre_combo:str, cols_to_show:list, top_genre_medians, top_genre_q1, top_genre_q3, figsize=(10, 5)):
+    # Testing confidence intervals rather than comparative
+    feature_cols = cols_to_show + ['is_winner', 'sorted_combo']
+    feature_median_data = top_genre_medians.filter(pl.col('sorted_combo') == genre_combo)[feature_cols]
+    feature_q1_data = top_genre_q1.filter(pl.col('sorted_combo') == genre_combo)[feature_cols]
+    feature_q3_data = top_genre_q3.filter(pl.col('sorted_combo') == genre_combo)[feature_cols]
+
+    N = len(cols_to_show)
+    theta = radar_factory(N, frame='polygon').tolist()
+    theta += theta[:1]
+
+    spoke_dict = {
+        'global_tempo': 'Tempo',
+        'duration_seconds': 'Duration',
+        'danceable_probability': 'Danceability',
+        'happy_probability': 'Happiness',
+        'instrumental_probability': 'Instrumental',
+        'bright_probability': 'Brightness',
+        'sad_probability': 'Sadness',
+        'party_probability': 'Partyness',
+        'relaxed_probability': 'Relaxedness',
+        'high_engagement_probability': 'Engagement',
+        'high_approachability_probability': 'Approachability',
+        'valence_normalized': 'Valence',
+        'arousal_normalized': 'Arousal'
+        }
+    
+    spoke_labels = [spoke_dict[col] for col in cols_to_show]
+    title = f'Characteristics for {feature_median_data[0]["sorted_combo"].item()} songs'
+
+    fig, ax = plt.subplots(nrows=1, ncols=2, figsize=figsize, subplot_kw=dict(projection='radar'))
+    fig.subplots_adjust(top=0.85, bottom=0.05)
+
+    fig.suptitle(title, weight='bold', size='medium')
+
+    for i in range(2):
+        winner = feature_median_data.row(i)[-2]
+        line = ax[i].plot(theta, feature_median_data.row(i)[:-2] + (feature_median_data.row(i)[0],), color="#7570B3" if not winner else "#1B9E77")
+        ax[i].fill_between(theta, feature_q1_data.row(i)[:-2] + (feature_q1_data.row(i)[0],), feature_q3_data.row(i)[:-2] + (feature_q3_data.row(i)[0],), alpha=0.25, color="#7570B3" if not winner else "#1B9E77")
+        ax[i].set_rgrids([0.2, 0.4, 0.6, 0.8])
+        ax[i].set_varlabels(spoke_labels)
+
+    fig.tight_layout()
+    plt.show()
+
+def plot_duration_tempo(genre_combo, top_genre_songs):
+    fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(10, 5))
+    fig.subplots_adjust(top=0.85, bottom=0.05)
+    filtered_genre = top_genre_songs.filter(pl.col('sorted_combo') == genre_combo)
+
+    winner_palette = {
+        0: "#7570B3",
+        1: "#1B9E77"
+    }
+
+    duration_plot = sns.boxplot(data=filtered_genre, x='is_winner', y='duration_seconds', ax=ax1, palette=winner_palette, hue='is_winner', legend=False)
+    tempo_plot = sns.boxplot(data=filtered_genre, x='is_winner', y='global_tempo', ax=ax2, palette=winner_palette, hue='is_winner', legend=False)
+
+    ax1.set_ylabel('')
+    ax1.set_xlabel('')
+    ax1.set_xticks([])
+    ax1.set_xticklabels('')
+    ax1.set_title('Duration (Secs)', fontsize=14, fontweight='semibold')
+
+    ax2.set_xlabel('')
+    ax2.set_ylabel('')
+    ax2.set_xticks([])
+    ax2.set_xticklabels('')
+    ax2.set_title('Tempo (BPM)', fontsize=14, fontweight='semibold')
+
+    plt.tight_layout()
+    plt.show()
