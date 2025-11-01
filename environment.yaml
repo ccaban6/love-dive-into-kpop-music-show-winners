@@ -9,4 +9,12 @@ dependencies:
   - tensorflow
   - pandas=2.1.4
   - matplotlib
+  - seaborn
+  - yt-dlp
+  - essentia
+  - bs4
+  - sqlite3
+  - polars
+  - librosa
+  - scipy
 prefix: /home/ccaban/miniforge3/envs/essentia
